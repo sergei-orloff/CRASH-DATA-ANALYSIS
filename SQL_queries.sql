@@ -3,7 +3,7 @@
 
 ### 1. Database Setup and Data Import
 
-First, you'll need to create a database and import your crash data:
+-- First, let's create a database and import crash data:
 
 ```sql
 -- Create database
@@ -38,12 +38,12 @@ CREATE TABLE crash_data (
     NOT_PREVENTABLE VARCHAR(1)
 );
 ```
-
-For data import, you'll need to clean up the data and use LOAD DATA INFILE or create an INSERT script.
+-- ==============================
+-- For data import, we will need to clean up the data and use LOAD DATA INFILE or create an INSERT script.
 
 ### 2. Data Cleaning and Preparation
 
-Once imported, check for data quality issues:
+-- Once imported, check for data quality issues:
 
 ```sql
 -- Check for missing values
