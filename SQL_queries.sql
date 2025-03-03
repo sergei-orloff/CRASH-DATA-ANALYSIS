@@ -86,7 +86,7 @@ GROUP BY ROAD_SURFACE_CONDITION_DESC, WEATHER_CONDITION_DESC;
 
 ### 4. Exploratory Data Analysis Queries
 
-Here are some example analyses you could perform:
+-- Here are some example analyses we can perform:
 
 ```sql
 -- Monthly crash trends
@@ -222,7 +222,7 @@ CALL analyze_crashes_by_condition('ROAD');
 
 ### 8. Data Visualization Preparation
 
-While you can't directly create visualizations in MySQL, you can prepare the data for visualization tools:
+-- Prepare the data for visualization tools:
 
 ```sql
 -- Create a summary table for visualization tools
@@ -240,16 +240,13 @@ SELECT
 FROM crash_data
 GROUP BY year, month, ROAD_SURFACE_CONDITION_DESC, WEATHER_CONDITION_DESC, LIGHT_CONDITION_DESC;
 ```
-
+-- ===============================================================
 ### 9. Documentation and Project Presentation
 
-To showcase your project effectively:
+To showcase the project effectively I will:
 
 1. Create a README document with project objectives and findings
 2. Document all SQL queries used with explanations
 3. Include sample results and insights
 4. Add a data dictionary explaining each field
 
-This comprehensive approach will demonstrate your MySQL skills, data analysis abilities, and your capacity to extract meaningful insights from transportation safety data.
-
-Would you like me to elaborate on any specific part of this project plan?
