@@ -1,0 +1,1001 @@
+REPORT_NUMBER,REPORT_DATE,REPORT_STATE,ROAD_SURFACE_CONDITION_DESC,WEATHER_CONDITION_DESC,LIGHT_CONDITION_DESC,VEHICLE_LICENSE_NUMBER
+AK0002300639,2023-07-12,AK,Dry,"No Adverse Conditions",Daylight,KEW354
+AK0022034699,2022-10-26,AK,Snow,"No Adverse Conditions",Daylight,KAH387
+AK0022035991,2022-11-07,AK,Ice,"No Adverse Conditions","Dark - Lighted",KCE674
+AK0022036172,2022-11-08,AK,Ice,"No Adverse Conditions","Dark - Lighted",H204AK
+AK0022037432,2022-11-19,AK,Ice,"No Adverse Conditions","Dark - Lighted",JHC898
+AK0022037758,2022-11-22,AK,Wet,"No Adverse Conditions",Daylight,JSM213
+AK0022038133,2022-11-25,AK,Ice,"Blowing Sand Soil Dirt Or Snow","Dark - Lighted",JTM948
+AK0022039651,2022-12-09,AK,Snow,"No Adverse Conditions","Dark - Lighted",KCM662
+AK0022039751,2022-12-10,AK,Snow,"No Adverse Conditions","Dark - Lighted",KEC425
+AK0022039981,2022-12-12,AK,Snow,"No Adverse Conditions",Daylight,KER289
+AK0022040042,2022-12-13,AK,Ice,"No Adverse Conditions","Dark - Lighted",LFE125
+AK0022040422,2022-12-16,AK,Ice,"No Adverse Conditions","Dark - Lighted",KFK663
+AK0022126806,2022-12-09,AK,Ice,Snow,"Dark - Lighted",GKG485
+AK0022128676,2022-12-15,AK,Snow,Snow,"Dark - Not Lighted",FSD783
+AK0022128676,2022-12-15,AK,Snow,Snow,"Dark - Lighted",JMK372
+AK0023004093,2023-01-12,AK,Dry,"No Adverse Conditions","Dark - Not Lighted",EKP210
+AK0023007624,2023-03-07,AK,Wet,"No Adverse Conditions",Daylight,KHT958
+AK0023007726,2023-03-08,AK,Ice,"No Adverse Conditions",Daylight,EEH661
+AK0023007895,2023-03-09,AK,Wet,"No Adverse Conditions",Daylight,KEX571
+AK0023011106,2023-04-06,AK,Wet,"No Adverse Conditions",Daylight,GKB501
+AK0023011466,2023-04-09,AK,Snow,"Blowing Sand Soil Dirt Or Snow",Daylight,JPA658
+AK0023011522,2023-04-10,AK,Snow,Snow,Daylight,JVG930
+AK0023011790,2023-04-12,AK,Wet,"No Adverse Conditions",Daylight,JCB922
+AK0023017167,2023-05-28,AK,Dry,"No Adverse Conditions",Daylight,JCN398
+AK0023017775,2023-06-03,AK,Wet,Other,Daylight,JSB387
+AK0023019462,2023-06-17,AK,Dry,"No Adverse Conditions",Daylight,4624SV
+AK0023019662,2023-06-19,AK,Dry,"No Adverse Conditions",Daylight,JCB920
+AK0023021413,2023-07-05,AK,Dry,"No Adverse Conditions",Daylight,ETS429
+AK0023021928,2023-07-09,AK,Dry,"No Adverse Conditions",Daylight,KEW393
+AK0023022846,2023-07-17,AK,Dry,"No Adverse Conditions","Dark - Lighted",9257DR
+AK0023022881,2023-07-18,AK,Dry,"No Adverse Conditions",Daylight,KDZ179
+AK0023022997,2023-07-19,AK,Dry,"No Adverse Conditions",Daylight,KJE242
+AK0023027338,2023-08-24,AK,"Water(Standing Moving)",Rain,Daylight,KEEPON
+AK0023027853,2023-08-28,AK,Wet,"No Adverse Conditions",Daylight,GRM981
+AK0023029360,2023-09-10,AK,Dry,"No Adverse Conditions",Daylight,KGE628
+AK0023030230,2023-09-17,AK,Dry,"No Adverse Conditions","Dark - Lighted",EHP764
+AK0023031738,2023-09-29,AK,"SandMudDirtOil Or Gravel","No Adverse Conditions","Dark - Lighted",KDX733
+AK0023036487,2023-11-09,AK,Ice,Snow,Daylight,KHY262
+AK0023036587,2023-11-10,AK,Snow,Snow,"Dark - Lighted",JTM633
+AK0023037054,2023-11-15,AK,Ice,"No Adverse Conditions","Dark - Lighted",KDX810
+AK0023037313,2023-11-16,AK,Ice,Snow,"Dark - Lighted",KFJ897
+AK0023038949,2023-12-01,AK,Ice,"No Adverse Conditions",Daylight,GXF100
+AK0023040055,2023-12-12,AK,Snow,Snow,"Dark - Lighted",KCF218
+AK0023040471,2023-12-15,AK,Ice,"No Adverse Conditions","Dark - Lighted",JTM633
+AK0023040482,2023-12-15,AK,Snow,"No Adverse Conditions","Dark - Lighted",JLY707
+AK0023040549,2023-12-15,AK,Snow,Snow,"Dark - Not Lighted",KBZ157
+AK0023040576,2023-12-15,AK,Ice,"No Adverse Conditions","Dark - Lighted",JJF958
+AK0023040672,2023-12-17,AK,Snow,Snow,"Dark - Lighted",KGV839
+AK0023041172,2023-12-20,AK,Ice,"No Adverse Conditions","Dark - Lighted",FJB122
+AK0023041532,2023-12-23,AK,Snow,"No Adverse Conditions","Dark - Lighted",JCY816
+AK0023043368,2023-05-04,AK,Dry,"No Adverse Conditions",Daylight,YZC253
+AK0023073820,2023-12-20,AK,Ice,"No Adverse Conditions","Dark - Not Lighted",GWT824
+AK0023096052,2023-09-08,AK,Wet,Rain,Daylight,DBM38
+AK0024000527,2024-02-13,AK,Snow,Snow,Daylight,JKC998
+AK0024001101,2024-01-10,AK,Ice,"No Adverse Conditions","Dark - Lighted",GKJ941
+AK0024003346,2024-01-30,AK,Ice,Snow,Dusk,KEK849
+AK0024004290,2024-02-07,AK,Snow,"No Adverse Conditions",Daylight,KKR225
+AK0024005117,2024-02-14,AK,Ice,"No Adverse Conditions","Dark - Lighted",EWT472
+AK0024005954,2024-02-22,AK,Ice,"No Adverse Conditions",Daylight,JVM504
+AK0024006377,2024-01-20,AK,Ice,"No Adverse Conditions",Daylight,EVK544
+AK0024008263,2024-03-15,AK,Wet,"No Adverse Conditions",Daylight,JJR537
+AK0024009053,2024-01-29,AK,Snow,"Blowing Sand Soil Dirt Or Snow","Dark - Not Lighted",JUT652
+AK0024010059,2024-04-01,AK,Ice,"No Adverse Conditions","Dark - Lighted",JRC780
+AK0024011841,2024-02-06,AK,Ice,"No Adverse Conditions","Dark - Not Lighted",GZU281
+AK0024012469,2024-04-23,AK,Dry,"No Adverse Conditions","Dark - Lighted",KEY592
+AK0024012832,2024-04-26,AK,Dry,"No Adverse Conditions",Daylight,JTP865
+AK0024014153,2024-05-08,AK,Dry,"No Adverse Conditions",Daylight,KBG327
+AK0024017460,2024-06-06,AK,Dry,"No Adverse Conditions",Daylight,LFC921
+AK0024019382,2024-06-24,AK,Dry,"No Adverse Conditions",Daylight,ENX438
+AK0024019752,2024-06-27,AK,Dry,"No Adverse Conditions",Daylight,JBB221
+AK0024060228,2024-06-22,AK,Dry,"No Adverse Conditions",Daylight,7860DS
+AK0024076404,2024-08-01,AK,Dry,"No Adverse Conditions",Daylight,JHE899
+AK022-039267,2022-12-05,AK,Ice,"No Adverse Conditions","Dark - Lighted",KFJ910
+AK022-040758,2022-12-19,AK,Snow,"No Adverse Conditions","Dark - Lighted",JPR896
+AK022-040896,2022-12-20,AK,Ice,"No Adverse Conditions",Daylight,JTJ184
+AK022-041306,2022-12-23,AK,Ice,"No Adverse Conditions","Dark - Lighted",FSY534
+AK022-041421,2022-12-24,AK,Ice,"No Adverse Conditions","Dark - Lighted",KJE676
+AK022-041431,2022-12-24,AK,Ice,"No Adverse Conditions","Dark - Lighted",KFX197
+AK022-041633,2022-12-26,AK,Ice,"No Adverse Conditions","Dark - Lighted",4646SW
+AK022-042046,2022-12-30,AK,Slush,"No Adverse Conditions","Dark - Lighted",JMH190
+AK022-042069,2022-12-30,AK,Snow,"No Adverse Conditions",Daylight,2BAD2
+AK023-000855,2023-01-09,AK,Ice,Snow,"Dark - Lighted",3636DD
+AK023-001437,2023-01-14,AK,Snow,"No Adverse Conditions","Dark - Lighted",ENDDMP
+AK023-002037,2023-01-19,AK,Snow,"No Adverse Conditions",Daylight,JMR874
+AK023-002474,2023-01-23,AK,Ice,"No Adverse Conditions",Daylight,GZR668
+AK023-002513,2023-01-23,AK,Ice,"No Adverse Conditions","Dark - Lighted",KER289
+AK023-003773,2023-02-03,AK,Ice,Snow,Daylight,3844DB
+AK023-005047,2023-02-14,AK,Snow,"No Adverse Conditions",Daylight,KJE731
+AK023-005573,2023-02-18,AK,Snow,Snow,Daylight,KEW325
+AK023-005869,2023-02-21,AK,Ice,"No Adverse Conditions",Daylight,JCG903
+AK023-005879,2023-02-21,AK,Ice,"No Adverse Conditions",Daylight,KGW657
+AK024009053A,2024-01-29,AK,Snow,"Blowing Sand Soil Dirt Or Snow","Dark - Not Lighted",LJK394
+AL0002708890,2022-11-05,AL,Dry,"No Adverse Conditions",Daylight,47ACRY6
+AL0002716040,2022-10-25,AL,Dry,"No Adverse Conditions",Daylight,3A04ME7
+AL0002716078,2022-10-25,AL,Dry,"No Adverse Conditions",Daylight,58ABHTE
+AL0002716225,2022-10-25,AL,Dry,"No Adverse Conditions",Daylight,A489466
+AL0002716237,2022-10-25,AL,Dry,"No Adverse Conditions",Daylight,25AAY9N
+AL0002716546,2022-10-26,AL,Dry,"No Adverse Conditions","Dark - Lighted",R573694
+AL0002716569,2022-10-25,AL,Wet,Rain,Daylight,C798DW
+AL0002716570,2022-10-26,AL,Dry,"No Adverse Conditions",Daylight,2XW549
+AL0002716764,2022-10-26,AL,Dry,"No Adverse Conditions",Daylight,21A049P
+AL0002716764,2022-10-26,AL,Dry,"No Adverse Conditions",Daylight,1143352
+AL0002716764,2022-10-26,AL,Dry,"No Adverse Conditions",Daylight,23CR438
+AL0002716811,2022-10-26,AL,Dry,"No Adverse Conditions",Daylight,43A35HP
+AL0002716822,2022-10-26,AL,Dry,"No Adverse Conditions","Dark - Lighted",BN61L81
+AL0002716948,2022-10-26,AL,Dry,"No Adverse Conditions",Daylight,MB74DR
+AL0002716992,2022-10-27,AL,Dry,"No Adverse Conditions",Daylight,250420
+AL0002717057,2022-10-27,AL,Dry,"No Adverse Conditions",Daylight,47AC6M5
+AL0002717058,2022-10-27,AL,Dry,"No Adverse Conditions",Daylight,59AAY10
+AL0002717180,2022-10-27,AL,Dry,"No Adverse Conditions",Daylight,3FG684
+AL0002717185,2022-10-27,AL,Dry,"No Adverse Conditions",Daylight,K4892HY
+AL0002717201,2022-10-27,AL,Dry,"No Adverse Conditions",Daylight,63A41CW
+AL0002717344,2022-10-27,AL,Dry,"No Adverse Conditions",Daylight,PWR5233
+AL0002717365,2022-10-28,AL,Dry,"No Adverse Conditions","Dark - Lighted",A304420
+AL0002717425,2022-10-28,AL,Dry,"No Adverse Conditions",Daylight,3DA297
+AL0002717430,2022-10-28,AL,Dry,"No Adverse Conditions","Dark - Lighted",JD76BF
+AL0002717441,2022-10-28,AL,Dry,"No Adverse Conditions",Daylight,H324150
+AL0002717454,2022-10-25,AL,Dry,"No Adverse Conditions",Daylight,50AAWE0
+AL0002717470,2022-10-28,AL,Dry,"No Adverse Conditions",Daylight,48A0BTN
+AL0002717470,2022-10-28,AL,Dry,"No Adverse Conditions",Daylight,27X6003A
+AL0002717483,2022-10-28,AL,Dry,"No Adverse Conditions",Daylight,47ACWAT
+AL0002717576,2022-10-28,AL,Dry,"No Adverse Conditions",Daylight,1176456
+AL0002717584,2022-10-28,AL,Dry,"No Adverse Conditions",Daylight,1170716
+AL0002717593,2022-10-28,AL,Dry,"No Adverse Conditions",Daylight,3271188
+AL0002717665,2022-10-28,AL,Dry,"No Adverse Conditions","Dark - Lighted",2785702
+AL0002717707,2022-10-28,AL,Dry,"No Adverse Conditions","Dark - Lighted",3350298
+AL0002717711,2022-10-25,AL,Dry,"No Adverse Conditions",Daylight,5A05EMP
+AL0002717749,2022-10-28,AL,Dry,"No Adverse Conditions","Dark - Lighted",YBW1034
+AL0002717751,2022-10-28,AL,Dry,"No Adverse Conditions","Dark - Lighted",1190627
+AL0002717755,2022-10-29,AL,Dry,"No Adverse Conditions","Dark - Lighted",YP32248
+AL0002717896,2022-10-29,AL,Dry,"No Adverse Conditions",Daylight,1180433
+AL0002717921,2022-10-28,AL,Dry,"No Adverse Conditions",Daylight,PAS3461
+AL0002718029,2022-10-29,AL,Dry,"No Adverse Conditions",Dusk,L894198
+AL0002718051,2022-10-27,AL,Dry,"No Adverse Conditions","Dark - Lighted",K812056
+AL0002718202,2022-10-30,AL,Wet,Rain,"Dark - Lighted",YP52628
+AL0002718216,2022-10-28,AL,Dry,"No Adverse Conditions",Daylight,1A0BEDR
+AL0002718257,2022-10-30,AL,Wet,"No Adverse Conditions",Daylight,5A05U6X
+AL0002718451,2022-10-30,AL,Dry,"No Adverse Conditions",Daylight,R314681
+AL0002718477,2022-10-30,AL,Wet,Rain,Daylight,R198165
+AL0002718544,2022-10-30,AL,Dry,"No Adverse Conditions","Dark - Lighted",JD96LP
+AL0002718678,2022-10-31,AL,Dry,"No Adverse Conditions","Dark - Lighted",C012DW
+AL0002718695,2022-10-31,AL,Wet,"No Adverse Conditions",Dawn,EPM245
+AL0002718727,2022-10-31,AL,Dry,"No Adverse Conditions","Dark - Lighted",1203763
+AL0002718797,2022-10-31,AL,Wet,"No Adverse Conditions",Daylight,H473728
+AL0002718886,2022-10-28,AL,Dry,"No Adverse Conditions",Daylight,50ACPUA
+AL0002718942,2022-10-31,AL,Dry,"No Adverse Conditions",Daylight,27A1R17
+AL0002719012,2022-10-31,AL,Dry,"No Adverse Conditions",Daylight,1185546
+AL0002719018,2022-10-31,AL,Dry,"No Adverse Conditions","Dark - Lighted",RB87881
+AL0002719020,2022-10-31,AL,Dry,"No Adverse Conditions",Daylight,9A00307
+AL0002719136,2022-11-01,AL,Dry,"No Adverse Conditions",Daylight,P1162501
+AL0002719200,2022-10-31,AL,Dry,"No Adverse Conditions",Daylight,1A0BDH9
+AL0002719207,2022-11-01,AL,Dry,Fog,Dusk,50ACR42
+AL0002719213,2022-10-31,AL,Dry,"No Adverse Conditions",Daylight,1141847
+AL0002719228,2022-11-01,AL,Dry,"No Adverse Conditions",Daylight,YAC315
+AL0002719235,2022-10-25,AL,Dry,"No Adverse Conditions",Daylight,1A0BEC1
+AL0002719311,2022-11-01,AL,Dry,"No Adverse Conditions",Daylight,58ABTD5
+AL0002719331,2022-11-01,AL,Dry,"No Adverse Conditions",Daylight,2420779
+AL0002719386,2022-11-01,AL,Dry,"No Adverse Conditions",Daylight,1A0CN1T
+AL0002719417,2022-11-01,AL,Dry,"No Adverse Conditions",Daylight,50AAWD7
+AL0002719466,2022-11-01,AL,Dry,"No Adverse Conditions",Daylight,WEN006
+AL0002719467,2022-11-01,AL,Dry,"No Adverse Conditions",Daylight,R589801
+AL0002719492,2022-11-01,AL,Dry,"No Adverse Conditions","Dark - Lighted",D6539HY
+AL0002719601,2022-11-02,AL,Dry,"No Adverse Conditions","Dark - Lighted",1181466
+AL0002719606,2022-11-02,AL,Dry,"No Adverse Conditions","Dark - Lighted",1179080
+AL0002719620,2022-11-02,AL,Dry,"No Adverse Conditions","Dark - Lighted",2974433
+AL0002719758,2022-11-02,AL,Dry,"No Adverse Conditions",Daylight,1158905
+AL0002719771,2022-11-02,AL,Dry,"No Adverse Conditions",Daylight,20A236U
+AL0002719801,2022-11-01,AL,Dry,"No Adverse Conditions",Daylight,19A1NHD
+AL0002719808,2022-11-02,AL,Dry,"No Adverse Conditions",Daylight,"JD9 7BF"
+AL0002719808,2022-11-02,AL,Dry,"No Adverse Conditions",Daylight,C163HS
+AL0002719809,2022-11-02,AL,Dry,"No Adverse Conditions",Daylight,NV4526
+AL0002719828,2022-10-31,AL,Dry,"No Adverse Conditions",Daylight,12A0XAU
+AL0002719843,2022-11-02,AL,Dry,"No Adverse Conditions",Daylight,61ADMC6
+AL0002719846,2022-11-02,AL,Dry,"No Adverse Conditions",Daylight,L4337HY
+AL0002719884,2022-11-02,AL,Dry,"No Adverse Conditions",Daylight,AAE830
+AL0002719902,2022-11-02,AL,Dry,"No Adverse Conditions",Daylight,1A0CM93
+AL0002719961,2022-11-02,AL,Dry,"No Adverse Conditions","Dark - Lighted",1172750
+AL0002719979,2022-11-02,AL,Dry,"No Adverse Conditions","Dark - Lighted",3021501
+AL0002719981,2022-11-02,AL,Dry,"No Adverse Conditions",Daylight,XAL993
+AL0002719991,2022-11-02,AL,Dry,"No Adverse Conditions",Dusk,1173250
+AL0002720128,2022-11-02,AL,Dry,"No Adverse Conditions",Daylight,33A0U76
+AL0002720141,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,1185029
+AL0002720167,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,3035238
+AL0002720173,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,1180243
+AL0002720196,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,44A2BM0
+AL0002720197,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,1204669
+AL0002720212,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,31AB196
+AL0002720227,2022-11-02,AL,Dry,"No Adverse Conditions",Dawn,3FV865
+AL0002720246,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,1204427
+AL0002720246,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,1170014
+AL0002720316,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,1A0BDM7
+AL0002720321,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,YP40785
+AL0002720326,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,Z172749
+AL0002720370,2022-11-01,AL,Dry,"No Adverse Conditions",Daylight,P254503
+AL0002720480,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,1184350
+AL0002720501,2022-11-03,AL,Dry,"No Adverse Conditions","Dark - Lighted",IC35QC
+AL0002720531,2022-11-04,AL,Dry,"No Adverse Conditions","Dark - Lighted",P1152648
+AL0002720535,2022-11-04,AL,Dry,"No Adverse Conditions",Daylight,50AG2B
+AL0002720546,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,N7557HY
+AL0002720564,2022-11-04,AL,Dry,"No Adverse Conditions","Dark - Lighted",K816837
+AL0002720593,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,10A0BR1
+AL0002720599,2022-11-04,AL,Dry,"No Adverse Conditions",Daylight,50AAWTR
+AL0002720633,2022-11-04,AL,Dry,"No Adverse Conditions",Daylight,LA21579
+AL0002720662,2022-11-04,AL,Dry,"No Adverse Conditions","Dark - Lighted",48LP2MR
+AL0002720676,2022-11-04,AL,Dry,"No Adverse Conditions",Dawn,1A0BHDN
+AL0002720696,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,28X91058
+AL0002720711,2022-10-28,AL,Dry,"No Adverse Conditions","Dark - Lighted",C303DF
+AL0002720719,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,JD31XN
+AL0002720727,2022-11-02,AL,Dry,"No Adverse Conditions",Daylight,R429355
+AL0002720745,2022-11-04,AL,Dry,"No Adverse Conditions",Dawn,R579626
+AL0002720758,2022-11-04,AL,Dry,"No Adverse Conditions",Daylight,50AAXXH
+AL0002720790,2022-11-04,AL,Dry,"No Adverse Conditions",Daylight,1219120
+AL0002720811,2022-11-04,AL,Dry,"No Adverse Conditions",Daylight,59AAP54
+AL0002720849,2022-11-03,AL,Dry,"No Adverse Conditions","Dark - Lighted",R626459
+AL0002720856,2022-11-04,AL,Dry,"No Adverse Conditions",Daylight,6994PZ
+AL0002720899,2022-11-01,AL,Dry,"No Adverse Conditions","Dark - Lighted",58ABRDT
+AL0002721015,2022-11-04,AL,Dry,"No Adverse Conditions","Dark - Lighted",1168251
+AL0002721073,2022-11-05,AL,Dry,"No Adverse Conditions","Dark - Lighted",1182774
+AL0002721136,2022-10-31,AL,Dry,"No Adverse Conditions",Daylight,A308283
+AL0002721195,2022-11-05,AL,Wet,Rain,Daylight,3FX525
+AL0002721231,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,47ACM29
+AL0002721236,2022-11-04,AL,Dry,"No Adverse Conditions","Dark - Lighted",2964631
+AL0002721457,2022-11-06,AL,Dry,"No Adverse Conditions",Daylight,69KS1G
+AL0002721481,2022-11-05,AL,Wet,Rain,Daylight,JD09KJ
+AL0002721487,2022-11-02,AL,Dry,"No Adverse Conditions",Daylight,1183851
+AL0002721534,2022-10-31,AL,Dry,"No Adverse Conditions",Daylight,2A08U9A
+AL0002721689,2022-11-05,AL,Dry,"No Adverse Conditions",Daylight,C715DA
+AL0002721729,2022-11-07,AL,Dry,Fog,"Dark - Lighted",59AAX12
+AL0002721792,2022-10-29,AL,Wet,Rain,"Dark - Lighted",4.31E+41
+AL0002721842,2022-11-07,AL,Dry,"No Adverse Conditions",Daylight,31AAYEY
+AL0002721887,2022-11-07,AL,Dry,"No Adverse Conditions",Daylight,3008495
+AL0002721890,2022-11-07,AL,Dry,"No Adverse Conditions",Daylight,29A21U1
+AL0002721903,2022-11-07,AL,Dry,"No Adverse Conditions",Daylight,3X20546A
+AL0002721989,2022-11-07,AL,Dry,"No Adverse Conditions",Daylight,59AAXY2
+AL0002721993,2022-11-07,AL,Dry,"No Adverse Conditions",Daylight,59AAXT9
+AL0002722018,2022-11-06,AL,Dry,"No Adverse Conditions","Dark - Lighted",A3170779
+AL0002722074,2022-11-07,AL,Dry,"No Adverse Conditions","Dark - Lighted",41A291R
+AL0002722096,2022-11-02,AL,Dry,"No Adverse Conditions",Daylight,973369
+AL0002722159,2022-11-04,AL,Dry,"No Adverse Conditions",Daylight,1181730
+AL0002722168,2022-11-07,AL,Dry,"No Adverse Conditions",Daylight,26A13MP
+AL0002722225,2022-11-08,AL,Dry,"No Adverse Conditions",Daylight,1190340
+AL0002722325,2022-11-08,AL,Dry,"No Adverse Conditions",Daylight,JD40CY
+AL0002722361,2022-11-08,AL,Dry,"No Adverse Conditions",Daylight,1A0BCPT
+AL0002722382,2022-11-08,AL,Dry,"No Adverse Conditions",Daylight,247872
+AL0002722427,2022-11-08,AL,Dry,"No Adverse Conditions",Daylight,DH3985
+AL0002722487,2022-11-08,AL,Dry,"No Adverse Conditions",Daylight,50AAY39
+AL0002722511,2022-11-08,AL,Dry,"No Adverse Conditions",Daylight,XQR084
+AL0002722549,2022-11-07,AL,Dry,"No Adverse Conditions","Dark - Lighted",A477892
+AL0002722580,2022-11-08,AL,Dry,"No Adverse Conditions","Dark - Lighted",C504DX
+AL0002722630,2022-11-05,AL,Dry,"No Adverse Conditions","Dark - Lighted",1A0CDR4
+AL0002722645,2022-11-08,AL,Dry,"No Adverse Conditions","Dark - Lighted",19149P
+AL0002722645,2022-11-08,AL,Dry,"No Adverse Conditions","Dark - Lighted",168540T
+AL0002722647,2022-11-08,AL,Dry,"No Adverse Conditions","Dark - Lighted",L7987HY
+AL0002722729,2022-11-03,AL,Dry,"No Adverse Conditions",Daylight,1179859
+AL0002722752,2022-11-09,AL,Dry,"No Adverse Conditions",Daylight,1A0CHE4
+AL0002722858,2022-11-09,AL,Dry,"No Adverse Conditions",Daylight,ELL389
+AL0002722858,2022-11-09,AL,Dry,"No Adverse Conditions",Daylight,1179121
+AL0002722858,2022-11-09,AL,Dry,"No Adverse Conditions",Daylight,JD93GM
+AL0002722871,2022-11-08,AL,Dry,"No Adverse Conditions",Daylight,1185677
+AL0002722878,2022-11-03,AL,Dry,"No Adverse Conditions","Dark - Lighted",YP48222
+AL0002722905,2022-11-09,AL,Dry,"No Adverse Conditions",Daylight,PA49014
+AL0002722948,2022-11-08,AL,Dry,"No Adverse Conditions",Daylight,64A1ETN
+AL0002723005,2022-11-09,AL,Dry,"No Adverse Conditions","Dark - Lighted",39AAE8D
+AL0002723014,2022-11-09,AL,Dry,"No Adverse Conditions",Dusk,P928938
+AL0002723086,2022-11-09,AL,Dry,"No Adverse Conditions","Dark - Lighted",W33897
+AL0002723089,2022-11-09,AL,Dry,"No Adverse Conditions","Dark - Lighted",58AS1C
+AL0002723131,2022-11-10,AL,Dry,"No Adverse Conditions","Dark - Lighted",1A0CCB7
+AL0002723134,2022-11-10,AL,Dry,"No Adverse Conditions","Dark - Lighted",3153140
+AL0002723219,2022-11-09,AL,Dry,"No Adverse Conditions",Daylight,C406EA
+AL0002723273,2022-11-10,AL,Dry,"No Adverse Conditions",Daylight,1184428
+AL0002723281,2022-11-10,AL,Dry,"No Adverse Conditions",Daylight,14A0U1P
+AL0002723406,2022-11-10,AL,Dry,"No Adverse Conditions",Daylight,1156971
+AL0002723463,2022-11-10,AL,Dry,"No Adverse Conditions",Daylight,PAU8327
+AL0002723568,2022-11-10,AL,Wet,Rain,"Dark - Lighted",1410L46
+AL0002723664,2022-11-11,AL,Wet,Rain,Daylight,XP58604
+AL0002723686,2022-11-11,AL,Dry,"No Adverse Conditions",Daylight,58ABT5H
+AL0002723712,2022-11-11,AL,Dry,"No Adverse Conditions",Daylight,1190100
+AL0002723760,2022-11-11,AL,Dry,"No Adverse Conditions",Daylight,1185438
+AL0002723762,2022-11-10,AL,Wet,Rain,Daylight,P1000322
+AL0002723772,2022-11-11,AL,Dry,"No Adverse Conditions",Daylight,R457244
+AL0002723789,2022-11-11,AL,Wet,"No Adverse Conditions",Daylight,50AAWWX
+AL0002723822,2022-11-10,AL,Dry,"No Adverse Conditions","Dark - Lighted",48007Z
+AL0002723914,2022-11-11,AL,Dry,"No Adverse Conditions","Dark - Lighted",2893937
+AL0002723943,2022-11-09,AL,Dry,"No Adverse Conditions",Daylight,A310278
+AL0002723946,2022-11-10,AL,Dry,"No Adverse Conditions","Dark - Lighted",PWV2009
+AL0002723962,2022-11-11,AL,Dry,Fog,Dusk,5A05R4Y
+AL0002723979,2022-11-04,AL,Dry,"No Adverse Conditions","Dark - Lighted",2941397
+AL0002723999,2022-11-10,AL,Dry,"No Adverse Conditions",Daylight,1183939
+AL0002724008,2022-11-12,AL,Dry,"No Adverse Conditions","Dark - Lighted",3172359
+AL0002724161,2022-11-11,AL,Wet,Rain,"Dark - Lighted",3163207
+AL0002724164,2022-11-11,AL,Wet,Rain,"Dark - Lighted",1186578
+AL0002724212,2022-11-12,AL,Dry,"No Adverse Conditions","Dark - Lighted",R402528
+AL0002724370,2022-11-13,AL,Dry,"No Adverse Conditions",Daylight,1171218
+AL0002724463,2022-11-10,AL,Dry,"No Adverse Conditions",Dawn,A469883
+AL0002724558,2022-11-04,AL,Dry,"No Adverse Conditions",Daylight,10A0BR4
+AL0002724570,2022-11-13,AL,Dry,"No Adverse Conditions","Dark - Lighted",RB99531
+AL0002724608,2022-11-13,AL,Dry,"No Adverse Conditions","Dark - Lighted",C027DE
+AL0002724677,2022-11-01,AL,Dry,"No Adverse Conditions",Dusk,1173530
+AL0002724677,2022-11-01,AL,Dry,"No Adverse Conditions",Dusk,A306086
+AL0002724682,2022-11-14,AL,Dry,"No Adverse Conditions",Daylight,XZR278
+AL0002724713,2022-11-14,AL,Dry,"No Adverse Conditions",Daylight,80X9357A
+AL0002724800,2022-11-14,AL,Dry,"No Adverse Conditions",Daylight,2812338
+AL0002724804,2022-11-14,AL,Dry,"No Adverse Conditions",Daylight,20A24PD
+AL0002724849,2022-11-14,AL,Dry,"No Adverse Conditions",Daylight,3FR749
+AL0002724860,2022-11-14,AL,Dry,"No Adverse Conditions",Daylight,52SBC84
+AL0002725038,2022-11-14,AL,Dry,"No Adverse Conditions","Dark - Lighted",197474
+AL0002725052,2022-11-14,AL,Wet,Rain,"Dark - Lighted",3A04M13
+AL0002725057,2022-11-14,AL,Dry,"No Adverse Conditions",Daylight,CP93682
+AL0002725145,2022-11-15,AL,Wet,Rain,"Dark - Lighted",PWJ8801
+AL0002725162,2022-11-15,AL,Wet,Rain,Daylight,K155322
+AL0002725191,2022-11-14,AL,Dry,"No Adverse Conditions",Daylight,A316165
+AL0002725233,2022-11-15,AL,Wet,Rain,Daylight,25AB0Y4
+AL0002725315,2022-11-15,AL,Wet,Rain,Daylight,29A2248
+AL0002725343,2022-11-14,AL,Dry,"No Adverse Conditions",Daylight,47AC6CR
+AL0002725409,2022-11-15,AL,Wet,Rain,Daylight,61AAR3N
+AL0002725417,2022-11-15,AL,Wet,"No Adverse Conditions",Daylight,P951CJ
+AL0002725421,2022-11-15,AL,Wet,"No Adverse Conditions",Daylight,1189139
+AL0002725471,2022-11-15,AL,Wet,"No Adverse Conditions",Daylight,1172299
+AL0002725491,2022-11-14,AL,Dry,"No Adverse Conditions","Dark - Lighted",1168714
+AL0002725517,2022-11-15,AL,Dry,"No Adverse Conditions","Dark - Lighted",P1106279
+AL0002725540,2022-11-15,AL,Dry,"No Adverse Conditions","Dark - Lighted",NS9075
+AL0002725751,2022-11-16,AL,Dry,"No Adverse Conditions",Daylight,39AAD38
+AL0002725767,2022-11-15,AL,Dry,"No Adverse Conditions","Dark - Lighted",2616762
+AL0002725838,2022-11-16,AL,Dry,"No Adverse Conditions",Daylight,1203611
+AL0002725847,2022-11-16,AL,Dry,"No Adverse Conditions",Dusk,939128
+AL0002725892,2022-11-16,AL,Dry,"No Adverse Conditions","Dark - Lighted",47AYTU5
+AL0002726118,2022-11-17,AL,Dry,"No Adverse Conditions",Daylight,1175180
+AL0002726131,2022-11-17,AL,Dry,"No Adverse Conditions",Daylight,43A3D7B
+AL0002726143,2022-11-17,AL,Dry,"No Adverse Conditions",Daylight,M7764HY
+AL0002726147,2022-11-17,AL,Dry,"No Adverse Conditions",Daylight,3033151
+AL0002726149,2022-11-16,AL,Dry,"No Adverse Conditions",Dusk,2A08RP1
+AL0002726201,2022-11-17,AL,Dry,"No Adverse Conditions",Daylight,JD51ES
+AL0002726215,2022-11-17,AL,Dry,"No Adverse Conditions",Daylight,P935154
+AL0002726258,2022-11-17,AL,Dry,"No Adverse Conditions",Daylight,JD78JU
+AL0002726357,2022-11-17,AL,Dry,"No Adverse Conditions",Daylight,47ACWCY
+AL0002726370,2022-11-17,AL,Dry,"No Adverse Conditions",Dusk,GBD935
+AL0002726451,2022-11-17,AL,Dry,"No Adverse Conditions","Dark - Lighted",XP61882
+AL0002726458,2022-11-17,AL,Dry,"No Adverse Conditions","Dark - Lighted",214503
+AL0002726490,2022-11-16,AL,Dry,"No Adverse Conditions",Daylight,A316132
+AL0002726561,2022-11-18,AL,Dry,"No Adverse Conditions",Daylight,47AYRTB
+AL0002726577,2022-11-16,AL,Dry,"No Adverse Conditions",Daylight,8AA0218
+AL0002726640,2022-11-18,AL,Dry,"No Adverse Conditions",Daylight,2825551
+AL0002726666,2022-11-18,AL,Dry,"No Adverse Conditions",Daylight,33A0TW1
+AL0002726701,2022-11-18,AL,Dry,"No Adverse Conditions",Daylight,1186685
+AL0002726741,2022-11-18,AL,Dry,"No Adverse Conditions",Daylight,R340786
+AL0002726757,2022-11-18,AL,Dry,"No Adverse Conditions",Daylight,W36374
+AL0002726832,2022-11-18,AL,Dry,"No Adverse Conditions",Daylight,N/A
+AL0002726861,2022-11-17,AL,Dry,"No Adverse Conditions","Dark - Lighted",1186283
+AL0002726991,2022-11-10,AL,Dry,"No Adverse Conditions",Daylight,2A0897X
+AL0002726991,2022-11-10,AL,Dry,"No Adverse Conditions",Daylight,38A2M90
+AL0002727016,2022-11-19,AL,Dry,"No Adverse Conditions",Dawn,C665DE
+AL0002727028,2022-11-18,AL,Dry,"No Adverse Conditions",Daylight,3297273
+AL0002727044,2022-11-15,AL,Dry,"No Adverse Conditions","Dark - Lighted",2A092DC
+AL0002727099,2022-11-18,AL,Dry,"No Adverse Conditions","Dark - Lighted",R506172
+AL0002727108,2022-11-19,AL,Dry,"No Adverse Conditions","Dark - Lighted",C724DE
+AL0002727140,2022-11-13,AL,Dry,"No Adverse Conditions",Daylight,8AA0HHD
+AL0002727269,2022-11-16,AL,Dry,"No Adverse Conditions",Daylight,62KS9B
+AL0002727400,2022-11-18,AL,Dry,"No Adverse Conditions",Daylight,1166305
+AL0002727412,2022-11-20,AL,Dry,"No Adverse Conditions",Daylight,FP9217
+AL0002727470,2022-11-20,AL,Dry,"No Adverse Conditions",Daylight,1A0CD6U
+AL0002727550,2022-11-17,AL,Dry,"No Adverse Conditions","Dark - Lighted",1A0BEPX
+AL0002727568,2022-11-18,AL,Dry,"No Adverse Conditions",Daylight,P1051645
+AL0002727595,2022-11-20,AL,Dry,"No Adverse Conditions","Dark - Lighted",J245HV
+AL0002727608,2022-11-16,AL,Dry,"No Adverse Conditions","Dark - Lighted",C683EA
+AL0002727608,2022-11-16,AL,Dry,"No Adverse Conditions","Dark - Lighted",ME46DP
+AL0002727628,2022-11-21,AL,Dry,"No Adverse Conditions","Dark - Lighted",3015694
+AL0002727723,2022-11-15,AL,Wet,"No Adverse Conditions",Daylight,B501487
+AL0002727733,2022-11-21,AL,Dry,"No Adverse Conditions",Daylight,5744J11
+AL0002727778,2022-11-21,AL,Dry,"No Adverse Conditions",Daylight,N9309HY
+AL0002727795,2022-11-21,AL,Dry,"No Adverse Conditions",Daylight,3A04WWB
+AL0002727817,2022-11-21,AL,Dry,"No Adverse Conditions",Daylight,K7022HY
+AL0002727880,2022-11-21,AL,Dry,"No Adverse Conditions",Daylight,C214CS
+AL0002727883,2022-11-21,AL,Dry,"No Adverse Conditions",Daylight,81042X
+AL0002727912,2022-11-21,AL,Dry,"No Adverse Conditions",Daylight,1169349
+AL0002727990,2022-11-19,AL,Dry,"No Adverse Conditions",Daylight,7A00N7P
+AL0002728063,2022-11-22,AL,Wet,Rain,"Dark - Lighted",HF80675
+AL0002728084,2022-11-21,AL,Dry,"No Adverse Conditions",Daylight,64A161M
+AL0002728099,2022-11-22,AL,Dry,"No Adverse Conditions","Dark - Lighted",PJW7033
+AL0002728179,2022-11-22,AL,Dry,"No Adverse Conditions",Daylight,R390409
+AL0002728282,2022-11-22,AL,Dry,"No Adverse Conditions",Daylight,IZJP84
+AL0002728292,2022-11-22,AL,Dry,"No Adverse Conditions",Daylight,11AB0DC
+AL0002728447,2022-11-23,AL,Dry,"No Adverse Conditions","Dark - Lighted",QA61VD
+AL0002728476,2022-11-21,AL,Dry,"No Adverse Conditions","Dark - Lighted",JD53XI
+AL0002728478,2022-11-22,AL,Dry,"No Adverse Conditions",Daylight,25AAXDP
+AL0002728490,2022-11-23,AL,Dry,"No Adverse Conditions",Dusk,N/A
+AL0002728521,2022-11-23,AL,Dry,"No Adverse Conditions","Dark - Lighted",1177677
+AL0002728549,2022-11-21,AL,Dry,"No Adverse Conditions",Daylight,1203825
+AL0002728555,2022-11-23,AL,Dry,"No Adverse Conditions",Daylight,43A37NC
+AL0002728658,2022-11-21,AL,Dry,"No Adverse Conditions",Daylight,3A050T7
+AL0002728716,2022-11-23,AL,Dry,"No Adverse Conditions",Dusk,2824060
+AL0002728740,2022-11-23,AL,Dry,"No Adverse Conditions",Daylight,57A1BDN
+AL0002728744,2022-11-23,AL,Dry,"No Adverse Conditions","Dark - Lighted",1188208
+AL0002728971,2022-11-24,AL,Dry,"No Adverse Conditions",Daylight,27AS1P
+AL0002729084,2022-11-25,AL,Wet,Rain,"Dark - Lighted","P 106175"
+AL0002729146,2022-11-25,AL,"SandMudDirtOil Or Gravel",Rain,Daylight,3A04WUM
+AL0002729147,2022-11-20,AL,Dry,"No Adverse Conditions","Dark - Lighted",3HQ424
+AL0002729163,2022-11-25,AL,Wet,Rain,Daylight,3BZ689
+AL0002729173,2022-11-25,AL,Wet,Rain,Daylight,47AYU54
+AL0002729185,2022-11-25,AL,Wet,Rain,Daylight,K803037
+AL0002729188,2022-11-25,AL,Wet,Rain,Daylight,46AN409
+AL0002729212,2022-11-25,AL,Wet,"No Adverse Conditions",Daylight,PAV0718
+AL0002729212,2022-11-25,AL,Wet,"No Adverse Conditions",Daylight,3250828
+AL0002729271,2022-11-21,AL,Dry,"No Adverse Conditions","Dark - Lighted",R568227
+AL0002729282,2022-11-22,AL,Dry,"No Adverse Conditions",Dusk,2842253
+AL0002729324,2022-11-25,AL,Dry,"No Adverse Conditions","Dark - Lighted",20A23CA
+AL0002729341,2022-11-24,AL,Dry,"No Adverse Conditions","Dark - Lighted",JD00TT
+AL0002729344,2022-11-25,AL,Dry,"No Adverse Conditions",Daylight,NK8654
+AL0002729524,2022-11-26,AL,Dry,"No Adverse Conditions",Daylight,61AC7A4
+AL0002729628,2022-11-23,AL,Dry,"No Adverse Conditions",Daylight,F9987HY
+AL0002729628,2022-11-23,AL,Dry,"No Adverse Conditions",Daylight,10A0C79
+AL0002729658,2022-11-26,AL,Wet,Rain,"Dark - Lighted",A473818
+AL0002729703,2022-11-23,AL,Dry,"No Adverse Conditions",Daylight,N1566HY
+AL0002729722,2022-11-26,AL,Wet,Rain,"Dark - Lighted",3393100
+AL0002729814,2022-11-27,AL,Wet,Rain,"Dark - Lighted",A317392
+AL0002729898,2022-11-27,AL,Dry,"No Adverse Conditions",Daylight,205659
+AL0002730044,2022-11-26,AL,Wet,Rain,"Dark - Lighted",58ABH6C
+AL0002730062,2022-11-23,AL,Dry,"No Adverse Conditions",Daylight,1170170
+AL0002730124,2022-11-27,AL,Dry,"No Adverse Conditions","Dark - Lighted",A305055
+AL0002730132,2022-11-28,AL,Dry,"No Adverse Conditions","Dark - Lighted",1A0CX4Y
+AL0002730281,2022-11-28,AL,Dry,"No Adverse Conditions",Daylight,PWU9364
+AL0002730310,2022-11-28,AL,Dry,"No Adverse Conditions",Daylight,170122H
+AL0002730310,2022-11-28,AL,Dry,"No Adverse Conditions",Daylight,1170209
+AL0002730314,2022-11-28,AL,Dry,"No Adverse Conditions",Daylight,51A0CYA
+AL0002730316,2022-11-28,AL,Dry,"No Adverse Conditions",Daylight,1168581
+AL0002730359,2022-11-23,AL,Dry,"No Adverse Conditions","Dark - Lighted",P4993B
+AL0002730394,2022-11-28,AL,Dry,"No Adverse Conditions","Dark - Lighted",1189174
+AL0002730428,2022-11-28,AL,Dry,"No Adverse Conditions",Daylight,PWB2535
+AL0002730457,2022-11-28,AL,Dry,"No Adverse Conditions",Daylight,GBA579
+AL0002730594,2022-11-28,AL,Dry,"No Adverse Conditions","Dark - Lighted",44030Z
+AL0002730647,2022-11-28,AL,Dry,"No Adverse Conditions","Dark - Lighted",3344250
+AL0002730661,2022-11-28,AL,Dry,"No Adverse Conditions",Daylight,1190560
+AL0002730679,2022-11-28,AL,Dry,"No Adverse Conditions",Daylight,1A0BE26
+AL0002730696,2022-11-29,AL,Dry,"No Adverse Conditions",Daylight,29A20WT
+AL0002730782,2022-11-29,AL,Dry,"No Adverse Conditions",Daylight,1141946
+AL0002730799,2022-11-29,AL,Dry,"No Adverse Conditions",Daylight,999NLP
+AL0002730837,2022-11-29,AL,Dry,Fog,"Dark - Lighted",3088912
+AL0002730842,2022-11-29,AL,Dry,"No Adverse Conditions",Daylight,11AAYU1
+AL0002730850,2022-11-29,AL,Dry,"No Adverse Conditions",Daylight,C517HY
+AL0002730875,2022-11-29,AL,Wet,Rain,Daylight,A483437
+AL0002730957,2022-11-29,AL,Wet,"No Adverse Conditions",Daylight,58ABT4A
+AL0002730962,2022-11-29,AL,Wet,Rain,Dusk,3FM755
+AL0002730970,2022-11-29,AL,Wet,Rain,Dusk,E7055HY
+AL0002730982,2022-11-29,AL,Dry,"No Adverse Conditions",Daylight,3079149
+AL0002730985,2022-11-29,AL,Wet,Rain,Daylight,3128411
+AL0002730997,2022-11-29,AL,Wet,Rain,Daylight,C034CW
+AL0002731011,2022-11-22,AL,Dry,"No Adverse Conditions",Daylight,59AK6W
+AL0002731021,2022-11-29,AL,Dry,"No Adverse Conditions","Dark - Lighted",32642P
+AL0002731097,2022-11-28,AL,Dry,"No Adverse Conditions",Daylight,16A0EA9
+AL0002731097,2022-11-28,AL,Dry,"No Adverse Conditions",Daylight,1184502
+AL0002731116,2022-11-29,AL,Wet,Rain,"Dark - Lighted",C721ED
+AL0002731228,2022-11-30,AL,Wet,Rain,Daylight,2994534
+AL0002731258,2022-11-30,AL,Wet,Rain,Daylight,A315842
+AL0002731313,2022-11-30,AL,Dry,"No Adverse Conditions",Daylight,63A41HX
+AL0002731359,2022-11-30,AL,Dry,"No Adverse Conditions",Daylight,1186804
+AL0002731387,2022-11-29,AL,Wet,Rain,"Dark - Lighted",U504991
+AL0002731419,2022-11-30,AL,Dry,"No Adverse Conditions",Daylight,3A04XC1
+AL0002731460,2022-11-30,AL,Dry,"No Adverse Conditions",Daylight,1191747
+AL0002731608,2022-11-30,AL,Dry,"No Adverse Conditions","Dark - Lighted",1179721
+AL0002731717,2022-11-29,AL,Dry,"No Adverse Conditions",Daylight,A475343
+AL0002731731,2022-12-01,AL,Dry,"No Adverse Conditions",Daylight,1188548
+AL0002731740,2022-12-01,AL,Dry,"No Adverse Conditions","Dark - Lighted",1187434
+AL0002731799,2022-11-30,AL,Wet,Rain,"Dark - Lighted",C954DX
+AL0002731802,2022-11-28,AL,Dry,"No Adverse Conditions",Daylight,2572308
+AL0002731812,2022-11-30,AL,Dry,"No Adverse Conditions",Dusk,CQB3378
+AL0002731814,2022-12-01,AL,Dry,"No Adverse Conditions",Daylight,3A04HY7
+AL0002731854,2022-12-01,AL,Dry,"No Adverse Conditions",Daylight,5A05DM2
+AL0002731885,2022-12-01,AL,Dry,"No Adverse Conditions",Daylight,25AB1EA
+AL0002731932,2022-12-01,AL,Dry,"No Adverse Conditions",Daylight,2A091DN
+AL0002731983,2022-12-01,AL,Dry,"No Adverse Conditions",Daylight,13AAA9H
+AL0002731986,2022-12-01,AL,Dry,"No Adverse Conditions",Daylight,1180471
+AL0002732007,2022-11-16,AL,Dry,"No Adverse Conditions",Daylight,1A17RY8
+AL0002732025,2022-12-01,AL,Dry,"No Adverse Conditions",Daylight,20A23D8
+AL0002732066,2022-12-01,AL,Dry,"No Adverse Conditions",Daylight,C7530B
+AL0002732100,2022-12-01,AL,Dry,"No Adverse Conditions","Dark - Lighted",RC03098
+AL0002732115,2022-12-01,AL,Dry,"No Adverse Conditions","Dark - Lighted",G585HT
+AL0002732174,2022-12-02,AL,Dry,"No Adverse Conditions",Dusk,C864CV
+AL0002732211,2022-11-30,AL,Dry,"No Adverse Conditions",Daylight,52ABBEN
+AL0002732211,2022-11-30,AL,Dry,"No Adverse Conditions",Daylight,47AC878
+AL0002732243,2022-11-29,AL,Dry,"No Adverse Conditions","Dark - Lighted",A470544
+AL0002732341,2022-12-01,AL,Dry,"No Adverse Conditions",Daylight,ZK8261
+AL0002732355,2022-12-02,AL,Dry,"No Adverse Conditions",Daylight,50AAWRA
+AL0002732375,2022-12-02,AL,Dry,"No Adverse Conditions",Daylight,A463136
+AL0002732437,2022-12-02,AL,Dry,"No Adverse Conditions",Daylight,1174497
+AL0002732457,2022-11-30,AL,Dry,"No Adverse Conditions","Dark - Lighted",C8869B
+AL0002732474,2022-12-02,AL,Dry,"No Adverse Conditions",Daylight,PWS7165
+AL0002732505,2022-11-30,AL,Dry,"No Adverse Conditions",Daylight,JD24UF
+AL0002732519,2022-12-02,AL,Dry,"No Adverse Conditions","Dark - Lighted",KC1D63
+AL0002732596,2022-12-02,AL,Dry,"No Adverse Conditions","Dark - Lighted",122614
+AL0002732602,2022-12-03,AL,Dry,"No Adverse Conditions","Dark - Lighted",C3799B
+AL0002732639,2022-12-02,AL,Dry,"No Adverse Conditions",Daylight,15A0XH1
+AL0002732652,2022-12-01,AL,Dry,"No Adverse Conditions",Daylight,JD94KQ
+AL0002732697,2022-12-03,AL,Wet,Rain,Daylight,3153043
+AL0002732769,2022-12-03,AL,Wet,Rain,Daylight,R506425
+AL0002732771,2022-12-02,AL,Dry,"No Adverse Conditions",Daylight,A308549
+AL0002732780,2022-12-03,AL,Wet,"No Adverse Conditions",Daylight,R606905
+AL0002732835,2022-12-02,AL,Dry,"No Adverse Conditions","Dark - Lighted",3300816
+AL0002732844,2022-12-03,AL,Wet,"No Adverse Conditions",Daylight,R626681
+AL0002732945,2022-12-04,AL,Wet,Rain,Dusk,1194305
+AL0002732983,2022-12-04,AL,Dry,"No Adverse Conditions","Dark - Lighted",R627708
+AL0002733005,2022-11-22,AL,Dry,"No Adverse Conditions",Daylight,H5473HY
+AL0002733032,2022-12-04,AL,Dry,Fog,Daylight,P1174583
+AL0002733036,2022-12-03,AL,Dry,"No Adverse Conditions",Daylight,2938014
+AL0002733065,2022-11-16,AL,Dry,"No Adverse Conditions",Dawn,30A12YU
+AL0002733103,2022-12-02,AL,Dry,"No Adverse Conditions",Daylight,3DH266
+AL0002733157,2022-12-02,AL,Dry,"No Adverse Conditions",Daylight,66A0329
+AL0002733173,2022-12-04,AL,Dry,"No Adverse Conditions",Daylight,C632DS
+AL0002733173,2022-12-04,AL,Dry,"No Adverse Conditions",Daylight,3180987
+AL0002733183,2022-11-30,AL,Dry,"No Adverse Conditions","Dark - Lighted",3020871
+AL0002733242,2022-12-04,AL,Dry,"No Adverse Conditions","Dark - Lighted",75BDTZ
+AL0002733291,2022-12-04,AL,Dry,"No Adverse Conditions","Dark - Lighted",JD03TC
+AL0002733433,2022-12-05,AL,Wet,Rain,Daylight,R596394
+AL0002733439,2022-12-05,AL,Wet,Rain,Daylight,52ABBEM
+AL0002733541,2022-12-05,AL,Wet,Rain,Daylight,RC01682
+AL0002733616,2022-12-05,AL,Wet,Rain,Daylight,1A0CB84
+AL0002733618,2022-12-05,AL,Dry,"No Adverse Conditions",Daylight,38A2TU1
+AL0002733650,2022-12-05,AL,Wet,Rain,Daylight,1183518
+AL0002733768,2022-12-05,AL,Wet,"No Adverse Conditions","Dark - Lighted",JD37JY
+AL0002733780,2022-12-05,AL,Wet,Rain,"Dark - Lighted",UNKNOWN
+AL0002733828,2022-12-06,AL,Wet,Rain,"Dark - Lighted",K4633HY
+AL0002733848,2022-12-06,AL,Wet,Rain,"Dark - Lighted",P1077709
+AL0002734000,2022-12-06,AL,Dry,"No Adverse Conditions",Daylight,2A091A9
+AL0002734006,2022-12-06,AL,Wet,Fog,Dawn,50AAW46
+AL0002734089,2022-12-05,AL,Wet,Rain,"Dark - Lighted",P1156609
+AL0002734105,2022-12-06,AL,Dry,"No Adverse Conditions",Daylight,NM2661
+AL0002734112,2022-12-06,AL,Dry,"No Adverse Conditions",Daylight,1A0BEBD
+AL0002734122,2022-12-06,AL,Dry,"No Adverse Conditions",Daylight,1194209
+AL0002734219,2022-12-06,AL,Dry,"No Adverse Conditions","Dark - Lighted",52X2828A
+AL0002734265,2022-12-06,AL,Wet,"No Adverse Conditions",Daylight,3431136
+AL0002734271,2022-11-30,AL,Dry,"No Adverse Conditions",Daylight,3029757
+AL0002734451,2022-12-07,AL,Dry,"No Adverse Conditions","Dark - Lighted",P1090807
+AL0002734451,2022-12-07,AL,Dry,"No Adverse Conditions","Dark - Lighted",1156565
+AL0002734451,2022-12-07,AL,Dry,"No Adverse Conditions","Dark - Lighted",PWR1284
+AL0002734498,2022-12-02,AL,Dry,"No Adverse Conditions",Daylight,1191559
+AL0002734567,2022-12-07,AL,Dry,"No Adverse Conditions",Daylight,29A1518
+AL0002734641,2022-12-07,AL,Dry,"No Adverse Conditions",Daylight,1175245
+AL0002734648,2022-12-07,AL,Dry,"No Adverse Conditions",Daylight,1175277
+AL0002734664,2022-12-07,AL,Dry,"No Adverse Conditions",Unknown,RC18656
+AL0002734689,2022-12-07,AL,Wet,Rain,"Dark - Lighted",ZPH6352
+AL0002734689,2022-12-07,AL,Wet,Rain,"Dark - Lighted",2659270
+AL0002734708,2022-12-02,AL,Dry,"No Adverse Conditions","Dark - Lighted",882F30
+AL0002734708,2022-12-02,AL,Dry,"No Adverse Conditions","Dark - Lighted",3028814
+AL0002734708,2022-12-02,AL,Dry,"No Adverse Conditions","Dark - Lighted",JD44TW
+AL0002734708,2022-12-02,AL,Dry,"No Adverse Conditions","Dark - Lighted",R591018
+AL0002734713,2022-12-07,AL,Wet,Rain,"Dark - Lighted",R307752
+AL0002734746,2022-12-07,AL,Wet,Rain,"Dark - Lighted",EUX189
+AL0002734766,2022-12-04,AL,Dry,"No Adverse Conditions","Dark - Lighted",19964H2
+AL0002734804,2022-12-07,AL,Dry,"No Adverse Conditions",Daylight,1187132
+AL0002734835,2022-12-08,AL,Wet,"No Adverse Conditions","Dark - Lighted",C977AA
+AL0002734910,2022-12-07,AL,Dry,"No Adverse Conditions",Daylight,2603815
+AL0002734941,2022-12-07,AL,Dry,"No Adverse Conditions",Daylight,14A0X51
+AL0002734982,2022-12-08,AL,Dry,Fog,"Dark - Lighted",R625539
+AL0002735047,2022-12-08,AL,Dry,"No Adverse Conditions",Daylight,58AAED9
+AL0002735097,2022-12-08,AL,Dry,"No Adverse Conditions","Dark - Lighted",AG59553
+AL0002735166,2022-12-05,AL,Wet,"No Adverse Conditions",Daylight,AH31061
+AL0002735237,2022-12-08,AL,Dry,"No Adverse Conditions",Daylight,2A08BC3
+AL0002735342,2022-12-08,AL,Dry,"No Adverse Conditions",Daylight,A300726
+AL0002735347,2022-12-08,AL,Wet,Fog,"Dark - Lighted",1181489
+AL0002735350,2022-12-08,AL,Dry,"No Adverse Conditions","Dark - Lighted",61AAB43
+AL0002735379,2022-12-08,AL,Dry,"No Adverse Conditions",Daylight,YDE426
+AL0002735411,2022-12-09,AL,Wet,Rain,"Dark - Lighted",XTD843
+AL0002735449,2022-12-09,AL,Dry,"No Adverse Conditions","Dark - Lighted",63A3YX2
+AL0002735493,2022-12-07,AL,Wet,"No Adverse Conditions",Dawn,2804592
+AL0002735552,2022-12-09,AL,Dry,"No Adverse Conditions",Daylight,3356124
+AL0002735557,2022-12-09,AL,Dry,"No Adverse Conditions","Dark - Lighted",2929619
+AL0002735560,2022-12-09,AL,Wet,Rain,Daylight,P0250HY
+AL0002735564,2022-12-09,AL,Dry,"No Adverse Conditions",Daylight,3246399
+AL0002735584,2022-12-06,AL,Dry,"No Adverse Conditions",Daylight,1204463
+AL0002735615,2022-12-09,AL,Dry,"No Adverse Conditions",Daylight,3009650
+AL0002735636,2022-12-09,AL,Dry,"No Adverse Conditions",Daylight,4A00XPY
+AL0002735699,2022-12-08,AL,Dry,"No Adverse Conditions","Dark - Lighted",3GU446
+AL0002735878,2022-12-10,AL,Dry,"No Adverse Conditions","Dark - Lighted",49905Z
+AL0002735931,2022-12-09,AL,Wet,Rain,Daylight,1190015
+AL0002736003,2022-12-06,AL,Dry,"No Adverse Conditions",Daylight,1194103
+AL0002736032,2022-12-10,AL,Dry,"No Adverse Conditions",Daylight,25AAXTD
+AL0002736078,2022-12-07,AL,Dry,"No Adverse Conditions",Daylight,43A36XP
+AL0002736197,2022-12-09,AL,Dry,"No Adverse Conditions",Dawn,3095737
+AL0002736233,2022-12-10,AL,Wet,Rain,"Dark - Lighted",3GG851
+AL0002736235,2022-12-10,AL,Wet,Rain,"Dark - Lighted",43KR2G
+AL0002736529,2022-12-11,AL,Wet,"No Adverse Conditions","Dark - Lighted",11AB2BD
+AL0002736571,2022-12-11,AL,Wet,Rain,"Dark - Lighted",1176100
+AL0002736571,2022-12-11,AL,Wet,Rain,"Dark - Lighted",IC69HQ
+AL0002736608,2022-12-11,AL,Wet,Fog,"Dark - Lighted",1182893
+AL0002736612,2022-12-11,AL,Wet,Rain,"Dark - Lighted",A470660
+AL0002736662,2022-12-12,AL,Wet,Rain,"Dark - Lighted",1183106
+AL0002736674,2022-12-12,AL,Dry,"No Adverse Conditions","Dark - Lighted",1183674
+AL0002736685,2022-12-12,AL,Dry,"No Adverse Conditions","Dark - Lighted",H8100HY
+AL0002736714,2022-12-12,AL,Wet,Rain,Dusk,A313753
+AL0002736716,2022-12-12,AL,Dry,"No Adverse Conditions",Daylight,39AAAAX
+AL0002736727,2022-12-12,AL,Wet,"No Adverse Conditions",Daylight,45KR6L
+AL0002736735,2022-12-12,AL,Wet,"No Adverse Conditions",Daylight,1184709
+AL0002736779,2022-12-12,AL,Dry,"No Adverse Conditions",Daylight,65A0A56
+AL0002736945,2022-12-12,AL,Dry,"No Adverse Conditions",Daylight,P1071702
+AL0002736962,2022-12-12,AL,Dry,"No Adverse Conditions",Daylight,11KR5G
+AL0002737074,2022-12-11,AL,Dry,Fog,"Dark - Lighted",3HL022
+AL0002737088,2022-12-12,AL,Dry,"No Adverse Conditions","Dark - Lighted",A303476
+AL0002737110,2022-12-12,AL,Dry,"No Adverse Conditions","Dark - Lighted",1179550
+AL0002737116,2022-12-12,AL,Dry,"No Adverse Conditions","Dark - Lighted",1172476
+AL0002737125,2022-11-30,AL,Wet,Rain,Daylight,C828DI
+AL0002737307,2022-12-13,AL,Dry,"No Adverse Conditions",Daylight,XLFT88
+AL0002737311,2022-12-13,AL,Dry,"No Adverse Conditions",Daylight,7A00N85
+AL0002737324,2022-12-13,AL,Dry,"No Adverse Conditions",Daylight,3GV657
+AL0002737324,2022-12-13,AL,Dry,"No Adverse Conditions",Daylight,P565CF
+AL0002737327,2022-12-13,AL,Dry,"No Adverse Conditions","Dark - Lighted",1182244
+AL0002737509,2022-12-13,AL,Dry,"No Adverse Conditions","Dark - Lighted",2453364
+AL0002737568,2022-12-14,AL,Dry,"No Adverse Conditions","Dark - Lighted",3202867
+AL0002737576,2022-12-14,AL,Wet,Rain,"Dark - Lighted",8AA0HP0
+AL0002737605,2022-12-12,AL,Dry,"No Adverse Conditions",Daylight,2815007
+AL0002737709,2022-11-17,AL,Dry,"No Adverse Conditions",Daylight,760723
+AL0002737727,2022-12-14,AL,Wet,"No Adverse Conditions",Daylight,2A08T3M
+AL0002737734,2022-12-14,AL,Wet,Rain,Daylight,38A2NXP
+AL0002737773,2022-12-14,AL,Wet,Rain,Daylight,A309037
+AL0002737784,2022-12-14,AL,Wet,Rain,Daylight,A318321
+AL0002737863,2022-12-05,AL,Dry,"No Adverse Conditions",Daylight,1A0CNN7
+AL0002737904,2022-12-14,AL,Wet,Rain,Daylight,999NLP
+AL0002737904,2022-12-14,AL,Wet,Rain,Daylight,FP2043
+AL0002738039,2022-12-12,AL,Wet,Rain,"Dark - Lighted",3A04CN2
+AL0002738055,2022-12-14,AL,Wet,Rain,"Dark - Lighted",PWL2983
+AL0002738070,2022-12-14,AL,Wet,Rain,"Dark - Lighted",1A0CRE5
+AL0002738084,2022-12-15,AL,Dry,"No Adverse Conditions","Dark - Lighted",1179484
+AL0002738092,2022-12-13,AL,Dry,"No Adverse Conditions","Dark - Lighted",1148292
+AL0002738112,2022-12-15,AL,Dry,"No Adverse Conditions","Dark - Lighted",3A00X7N
+AL0002738114,2022-12-15,AL,Wet,"No Adverse Conditions","Dark - Lighted",P1328HY
+AL0002738166,2022-12-14,AL,Wet,Rain,Daylight,AP022213
+AL0002738235,2022-12-15,AL,Dry,"No Adverse Conditions",Daylight,1175376
+AL0002738236,2022-12-15,AL,Dry,"No Adverse Conditions",Daylight,J0312HY
+AL0002738241,2022-12-15,AL,Wet,"No Adverse Conditions","Dark - Lighted",C079EA
+AL0002738342,2022-12-15,AL,Dry,"No Adverse Conditions",Daylight,P1085113
+AL0002738366,2022-12-15,AL,Dry,"No Adverse Conditions",Daylight,R468752
+AL0002738368,2022-12-15,AL,Dry,"No Adverse Conditions",Daylight,1184176
+AL0002738422,2022-12-15,AL,Dry,"No Adverse Conditions",Daylight,3136044
+AL0002738433,2022-12-15,AL,Dry,"No Adverse Conditions",Daylight,T528103
+AL0002738473,2022-12-15,AL,Dry,"No Adverse Conditions",Daylight,64A1M1W
+AL0002738558,2022-11-30,AL,Dry,"No Adverse Conditions","Dark - Lighted",JD87FF
+AL0002738639,2022-12-14,AL,Wet,Rain,"Dark - Lighted",K3670HY
+AL0002738677,2022-12-15,AL,Dry,"No Adverse Conditions","Dark - Lighted",RB75393
+AL0002738679,2022-12-13,AL,Dry,"No Adverse Conditions",Daylight,R629624
+AL0002738688,2022-12-14,AL,Wet,Rain,Daylight,YP45449
+AL0002738783,2022-12-16,AL,Dry,"No Adverse Conditions",Daylight,5A05U9D
+AL0002738783,2022-12-16,AL,Dry,"No Adverse Conditions",Daylight,5A0E2X4
+AL0002738808,2022-12-15,AL,Dry,"No Adverse Conditions",Daylight,1178820
+AL0002738860,2022-12-16,AL,Dry,"No Adverse Conditions","Dark - Lighted",78801X
+AL0002738888,2022-12-16,AL,Dry,"No Adverse Conditions",Daylight,91AVKT
+AL0002738963,2022-12-16,AL,Dry,"No Adverse Conditions","Dark - Lighted",R448491
+AL0002738974,2022-12-16,AL,Dry,"No Adverse Conditions",Daylight,41A1HE3
+AL0002739074,2022-12-16,AL,Dry,"No Adverse Conditions",Daylight,3035646
+AL0002739074,2022-12-16,AL,Dry,"No Adverse Conditions",Daylight,L8816HY
+AL0002739158,2022-12-16,AL,Dry,"No Adverse Conditions","Dark - Lighted",JD90GR
+AL0002739232,2022-12-16,AL,Dry,"No Adverse Conditions",Daylight,P1115471
+AL0002739236,2022-12-17,AL,Dry,"No Adverse Conditions",Daylight,K018654
+AL0002739244,2022-12-14,AL,Wet,Rain,"Dark - Lighted",R641247
+AL0002739320,2022-12-17,AL,Dry,"No Adverse Conditions","Dark - Lighted",2892722
+AL0002739345,2022-12-17,AL,Dry,"No Adverse Conditions",Daylight,K815658
+AL0002739349,2022-12-17,AL,Dry,"No Adverse Conditions",Daylight,13AACH7
+AL0002739358,2022-12-17,AL,Dry,"No Adverse Conditions",Daylight,75KS5C
+AL0002739364,2022-12-17,AL,Dry,"No Adverse Conditions",Daylight,JD44MY
+AL0002739414,2022-12-17,AL,Dry,"No Adverse Conditions","Dark - Lighted",59AAWMM
+AL0002739556,2022-12-16,AL,Dry,"No Adverse Conditions",Daylight,3021448
+AL0002739562,2022-12-18,AL,Dry,"No Adverse Conditions",Daylight,AW408D
+AL0002739562,2022-12-18,AL,Dry,"No Adverse Conditions",Daylight,R518914
+AL0002739587,2022-12-18,AL,Dry,"No Adverse Conditions",Daylight,1169262
+AL0002739597,2022-12-17,AL,Dry,"No Adverse Conditions",Daylight,1176896
+AL0002739642,2022-12-15,AL,Wet,"No Adverse Conditions","Dark - Lighted",2795043
+AL0002739642,2022-12-15,AL,Wet,"No Adverse Conditions","Dark - Lighted",RP100554
+AL0002739690,2022-12-18,AL,Dry,"No Adverse Conditions",Daylight,R627617
+AL0002739716,2022-12-16,AL,Dry,"No Adverse Conditions",Dawn,2561497
+AL0002739856,2022-12-15,AL,Dry,"No Adverse Conditions",Daylight,47AC7TY
+AL0002739872,2022-12-19,AL,Dry,"No Adverse Conditions",Daylight,1175160
+AL0002739956,2022-12-19,AL,Dry,"No Adverse Conditions",Daylight,1194165
+AL0002739975,2022-12-15,AL,Dry,"No Adverse Conditions",Daylight,252075
+AL0002739996,2022-12-19,AL,Dry,"No Adverse Conditions",Dawn,11AB0CA
+AL0002740023,2022-12-15,AL,Dry,"No Adverse Conditions",Daylight,EAU612
+AL0002740135,2022-12-19,AL,Dry,"No Adverse Conditions",Daylight,C6642A
+AL0002740176,2022-12-19,AL,Dry,"No Adverse Conditions",Daylight,61AARUY
+AL0002740197,2022-12-19,AL,Dry,"No Adverse Conditions",Daylight,32A0D21
+AL0002740197,2022-12-19,AL,Dry,"No Adverse Conditions",Daylight,1194780
+AL0002740256,2022-12-19,AL,Wet,Rain,Daylight,2VU658
+AL0002740293,2022-12-19,AL,Wet,Rain,"Dark - Lighted",P1160654
+AL0002740354,2022-12-20,AL,Wet,"No Adverse Conditions","Dark - Lighted",47ACRY0
+AL0002740447,2022-12-15,AL,Dry,"No Adverse Conditions",Dusk,3041329
+AL0002740460,2022-12-20,AL,Wet,Rain,Dusk,3440641
+AL0002740467,2022-12-20,AL,Wet,Rain,"Dark - Lighted",1A0CM9M
+AL0002740470,2022-12-20,AL,Wet,Rain,Daylight,P1171423
+AL0002740501,2022-12-20,AL,Wet,Rain,Daylight,C577CX
+AL0002740510,2022-12-20,AL,Wet,Rain,Daylight,1M40366
+AL0002740518,2022-12-20,AL,Wet,Rain,Daylight,1173204
+AL0002740520,2022-12-20,AL,Wet,Rain,"Dark - Lighted",1177344
+AL0002740524,2022-12-13,AL,Dry,"No Adverse Conditions",Daylight,24A0A0A
+AL0002740589,2022-12-19,AL,Dry,"No Adverse Conditions","Dark - Lighted",1129690
+AL0002740596,2022-12-15,AL,Dry,"No Adverse Conditions",Daylight,59AAW21
+AL0002740616,2022-12-20,AL,Wet,Rain,Daylight,61AAR2E
+AL0002740740,2022-12-20,AL,Wet,Rain,"Dark - Lighted",R627533
+AL0002740751,2022-12-20,AL,Dry,"No Adverse Conditions","Dark - Lighted",52AA4DM
+AL0002740770,2022-12-20,AL,Wet,"No Adverse Conditions","Dark - Lighted",A306687
+AL0002740792,2022-12-20,AL,Wet,"No Adverse Conditions","Dark - Lighted",NP2662
+AL0002740814,2022-12-20,AL,Wet,Rain,"Dark - Lighted",R626312
+AL0002740817,2022-12-20,AL,Wet,"No Adverse Conditions","Dark - Lighted",R584457
+AL0002740836,2022-12-20,AL,Wet,"No Adverse Conditions","Dark - Lighted",43A36B5
+AL0002740858,2022-12-21,AL,Wet,Rain,"Dark - Lighted",255958
+AL0002740859,2022-12-21,AL,Dry,"No Adverse Conditions",Daylight,1171386
+AL0002740872,2022-12-21,AL,Dry,"No Adverse Conditions","Dark - Lighted",67A0UC4
+AL0002740877,2022-12-21,AL,Dry,"No Adverse Conditions","Dark - Lighted",R542929
+AL0002740891,2022-12-21,AL,Wet,Rain,"Dark - Lighted",10A0C23
+AL0002740892,2022-12-07,AL,Dry,"No Adverse Conditions","Dark - Lighted",999NLP
+AL0002740948,2022-11-16,AL,Dry,"No Adverse Conditions",Daylight,8AA0218
+AL0002740957,2022-12-21,AL,Dry,"No Adverse Conditions",Daylight,B975HR
+AL0002740957,2022-12-21,AL,Dry,"No Adverse Conditions",Daylight,63A3WW5
+AL0002741009,2022-12-21,AL,Dry,"No Adverse Conditions",Daylight,5A05DH0
+AL0002741071,2022-12-21,AL,Dry,"No Adverse Conditions",Daylight,5329PRA
+AL0002741076,2022-12-21,AL,Wet,Rain,"Dark - Lighted",2AOHRSE
+AL0002741094,2022-12-21,AL,Dry,"No Adverse Conditions",Daylight,1A0CB46
+AL0002741110,2022-12-21,AL,Dry,"No Adverse Conditions",Daylight,A473459
+AL0002741153,2022-12-21,AL,Wet,Rain,"Dark - Lighted",407575
+AL0002741175,2022-12-21,AL,Dry,"No Adverse Conditions",Dusk,PWA2059
+AL0002741200,2022-12-21,AL,Dry,"No Adverse Conditions","Dark - Lighted",TP03LDWB
+AL0002741233,2022-12-21,AL,Wet,"No Adverse Conditions","Dark - Lighted",17A0NNE
+AL0002741234,2022-12-15,AL,Dry,"No Adverse Conditions",Daylight,1192006
+AL0002741254,2022-12-21,AL,Wet,Rain,"Dark - Lighted",1185901
+AL0002741270,2022-12-19,AL,Dry,"No Adverse Conditions","Dark - Lighted",63A42EX
+AL0002741322,2022-12-21,AL,Dry,"No Adverse Conditions",Daylight,1162521
+AL0002741328,2022-12-22,AL,Wet,Rain,"Dark - Lighted",3CC901
+AL0002741397,2022-12-21,AL,Dry,"No Adverse Conditions","Dark - Lighted",3GS112
+AL0002741432,2022-12-22,AL,Dry,"No Adverse Conditions",Daylight,47AC65D
+AL0002741489,2022-12-21,AL,Dry,"No Adverse Conditions","Dark - Lighted",NP8096
+AL0002741489,2022-12-21,AL,Dry,"No Adverse Conditions","Dark - Lighted",1180393
+AL0002741596,2022-12-22,AL,Dry,"No Adverse Conditions",Daylight,2US437
+AL0002741601,2022-12-22,AL,Wet,Rain,Daylight,11AAYPD
+AL0002741618,2022-12-22,AL,Wet,"No Adverse Conditions",Daylight,1194231
+AL0002741622,2022-12-21,AL,Wet,Rain,Daylight,1185718
+AL0002741653,2022-12-22,AL,Dry,"No Adverse Conditions",Daylight,50AAUX3
+AL0002741764,2022-12-22,AL,Wet,Rain,"Dark - Lighted",P1137243
+AL0002741888,2022-12-19,AL,Dry,"No Adverse Conditions",Daylight,53A02RH
+AL0002741892,2022-12-20,AL,Dry,"No Adverse Conditions",Daylight,1190023
+AL0002741958,2022-12-22,AL,Dry,"No Adverse Conditions",Daylight,R565417
+AL0002742071,2022-12-23,AL,Dry,"No Adverse Conditions",Daylight,3113455
+AL0002742074,2022-12-23,AL,Dry,"No Adverse Conditions",Daylight,JD55TC
+AL0002742142,2022-12-23,AL,Dry,"No Adverse Conditions",Dusk,JD39HK
+AL0002742208,2022-12-24,AL,Dry,"No Adverse Conditions","Dark - Lighted",2990786
+AL0002742867,2022-12-22,AL,Wet,Rain,"Dark - Lighted",RB54482
+AL0002742978,2022-12-26,AL,Dry,"No Adverse Conditions","Dark - Lighted",JD10QR
+AL0002742991,2022-12-27,AL,Dry,"No Adverse Conditions","Dark - Lighted",A477891
+AL0002743061,2022-12-27,AL,Dry,"No Adverse Conditions",Daylight,EZW755
+AL0002743071,2022-12-24,AL,Dry,"No Adverse Conditions",Dusk,980F27
+AL0002743089,2022-12-27,AL,Ice,"No Adverse Conditions",Daylight,3165104
+AL0002743236,2022-12-27,AL,Dry,"No Adverse Conditions",Daylight,1203795
+AL0002743268,2022-12-27,AL,Dry,"No Adverse Conditions",Daylight,AG72619
+AL0002743300,2022-12-27,AL,Dry,"No Adverse Conditions",Daylight,1A0BCEP
+AL0002743326,2022-12-27,AL,Dry,"No Adverse Conditions",Daylight,K821429
+AL0002743329,2022-12-27,AL,Dry,"No Adverse Conditions",Daylight,M782HY
+AL0002743367,2022-12-27,AL,Dry,"No Adverse Conditions","Dark - Lighted",852XBD
+AL0002743502,2022-12-21,AL,Dry,"No Adverse Conditions",Dusk,1A0CE6B
+AL0002743639,2022-12-28,AL,Dry,"No Adverse Conditions",Daylight,215095E
+AL0002743653,2022-12-21,AL,Dry,"No Adverse Conditions",Daylight,1191767
+AL0002743680,2022-12-28,AL,Dry,"No Adverse Conditions","Dark - Lighted",1204857
+AL0002743704,2022-12-23,AL,Dry,"No Adverse Conditions",Daylight,2803138
+AL0002743816,2022-12-29,AL,Dry,"No Adverse Conditions",Daylight,P1092306
+AL0002743820,2022-12-29,AL,Dry,"No Adverse Conditions",Daylight,7A00N6P
+AL0002743821,2022-12-27,AL,Ice,"No Adverse Conditions",Daylight,1A0CD63
+AL0002743995,2022-12-29,AL,Dry,"No Adverse Conditions",Daylight,D082HY
+AL0002744023,2022-12-28,AL,Dry,"No Adverse Conditions","Dark - Lighted",C323CW
+AL0002744159,2022-12-29,AL,Dry,"No Adverse Conditions","Dark - Lighted",29A2185
+AL0002744272,2022-12-30,AL,Wet,Rain,Daylight,A312892
+AL0002744276,2022-12-30,AL,Dry,"No Adverse Conditions",Daylight,1175193
+AL0002744281,2022-12-30,AL,Dry,"No Adverse Conditions",Daylight,59AAW0T
+AL0002744355,2022-12-30,AL,Wet,Rain,"Dark - Lighted",3GK298
+AL0002744365,2022-12-30,AL,Wet,Rain,"Dark - Lighted",H0797HY
+AL0002744425,2022-12-30,AL,Wet,Rain,"Dark - Lighted",A310231
+AL0002744462,2022-12-30,AL,Wet,"No Adverse Conditions","Dark - Lighted",P234455
+AL0002744487,2022-12-29,AL,Dry,"No Adverse Conditions","Dark - Lighted",2535139
+AL0002744578,2022-12-31,AL,Dry,"No Adverse Conditions",Daylight,58ABNNU
+AL0002744604,2022-12-31,AL,Wet,Rain,Daylight,JD05PS
+AL0002744773,2022-12-30,AL,Wet,"No Adverse Conditions",Daylight,3A04MRH
+AL0002744811,2022-12-30,AL,Wet,Rain,"Dark - Lighted",K130389
+AL0002744852,2022-12-22,AL,Dry,Fog,"Dark - Lighted",3GV324
+AL0002744895,2022-12-29,AL,Dry,"No Adverse Conditions",Daylight,P1086632
+AL0002744914,2022-12-26,AL,Dry,"No Adverse Conditions",Dawn,H461HV
+AL0002744929,2022-12-29,AL,Dry,"No Adverse Conditions","Dark - Lighted",8AA0MC3
+AL0002744996,2022-12-31,AL,Dry,"No Adverse Conditions","Dark - Lighted",C139EA
+AL0002745001,2022-12-26,AL,Dry,"No Adverse Conditions",Daylight,L2871HY
+AL0002745055,2022-12-21,AL,Dry,Fog,Daylight,N3088HY
+AL0002745168,2022-12-30,AL,Wet,Rain,Daylight,1180062
+AL0003600054,2023-01-01,AL,Wet,Fog,Dawn,3226966
+AL0003600062,2023-01-01,AL,Dry,Fog,Daylight,3EU683
+AL0003600185,2023-01-01,AL,Dry,"No Adverse Conditions","Dark - Lighted",C936DS
+AL0003600252,2023-01-02,AL,Wet,Fog,"Dark - Lighted",JD13SS
+AL0003600283,2023-01-02,AL,Dry,"No Adverse Conditions",Daylight,1173574
+AL0003600286,2023-01-02,AL,Dry,"No Adverse Conditions",Daylight,2A08XR9
+AL0003600314,2023-01-02,AL,Dry,"No Adverse Conditions",Daylight,3252844
+AL0003600315,2023-01-02,AL,Dry,"No Adverse Conditions",Daylight,R541601
+AL0003600483,2023-01-03,AL,Wet,Rain,Daylight,PAU1569
+AL0003600539,2023-01-03,AL,Wet,Rain,Daylight,1176393
+AL0003600598,2023-01-03,AL,Wet,"No Adverse Conditions",Daylight,1189325
+AL0003600638,2023-01-03,AL,Wet,Rain,Daylight,2622668
+AL0003600648,2023-01-03,AL,Wet,Rain,"Dark - Lighted",A479614
+AL0003600726,2023-01-03,AL,Wet,Rain,"Dark - Lighted",3293876
+AL0003600754,2023-01-03,AL,Dry,"No Adverse Conditions","Dark - Lighted",3A04E5E
+AL0003600777,2023-01-03,AL,Wet,Rain,Daylight,19907Z
+AL0003600838,2023-01-04,AL,Wet,"No Adverse Conditions",Daylight,63A4135
+AL0003600878,2023-01-04,AL,Wet,"No Adverse Conditions","Dark - Lighted",2956880
+AL0003600899,2023-01-04,AL,Wet,"No Adverse Conditions",Daylight,C454DG
+AL0003600932,2023-01-04,AL,Dry,"No Adverse Conditions",Daylight,1191450
+AL0003600950,2023-01-03,AL,Wet,Rain,Daylight,1A0BDCA
+AL0003600964,2023-01-04,AL,Dry,"No Adverse Conditions",Daylight,P244270
+AL0003600999,2023-01-04,AL,Dry,"No Adverse Conditions",Daylight,1179187
+AL0003601006,2023-01-03,AL,Wet,Rain,"Dark - Lighted",RC17374
+AL0003601095,2023-01-04,AL,Dry,"No Adverse Conditions","Dark - Lighted",3FJ991
+AL0003601201,2023-01-05,AL,Dry,"No Adverse Conditions","Dark - Lighted",50AAY44
+AL0003601264,2023-01-05,AL,Dry,"No Adverse Conditions",Daylight,IC16KK
+AL0003601280,2023-01-04,AL,Wet,Rain,Daylight,5A05RCW
+AL0003601318,2023-01-05,AL,Dry,"No Adverse Conditions",Daylight,6600524
+AL0003601319,2023-01-05,AL,Dry,"No Adverse Conditions",Daylight,Y128003
+AL0003601365,2023-01-04,AL,Wet,Rain,Daylight,16A0EYC
+AL0003601427,2023-01-05,AL,Dry,"No Adverse Conditions",Daylight,4A00XE4
+AL0003601439,2023-01-05,AL,Dry,"No Adverse Conditions",Daylight,11ADAM7
+AL0003601456,2023-01-05,AL,Dry,"No Adverse Conditions",Daylight,2531461
+AL0003601483,2023-01-05,AL,Dry,"No Adverse Conditions",Daylight,2A090YX
+AL0003601555,2023-01-05,AL,Dry,"No Adverse Conditions",Daylight,NK4963
+AL0003601592,2023-01-05,AL,Dry,"No Adverse Conditions","Dark - Lighted",124484
+AL0003601610,2023-01-05,AL,Dry,"No Adverse Conditions","Dark - Lighted",XP48562
+AL0003601645,2023-01-06,AL,Dry,"No Adverse Conditions","Dark - Lighted",1191582
+AL0003601692,2023-04-13,AL,Wet,Rain,Daylight,C659DX
+AL0003601692,2023-01-02,AL,Dry,"No Adverse Conditions",Daylight,3319334
+AL0003601692,2023-04-13,AL,Wet,Rain,Daylight,260038
+AL0003601740,2023-01-06,AL,Dry,"No Adverse Conditions",Daylight,64A1RCY
+AL0003601865,2023-01-06,AL,Dry,"No Adverse Conditions",Daylight,1204603
+AL0003601879,2023-01-06,AL,Dry,"No Adverse Conditions",Daylight,2942707
+AL0003601916,2023-01-06,AL,Dry,"No Adverse Conditions",Daylight,B268346
+AL0003601967,2023-01-06,AL,Dry,"No Adverse Conditions",Dusk,IEKE88
+AL0003602021,2023-01-06,AL,Dry,"No Adverse Conditions","Dark - Lighted",1172897
+AL0003602211,2023-01-05,AL,Dry,"No Adverse Conditions",Daylight,3188633
+AL0003602371,2023-01-08,AL,Wet,Rain,Dawn,1129118
+AL0003602414,2023-01-08,AL,Wet,"No Adverse Conditions",Daylight,3358470
+AL0003602532,2023-01-08,AL,Dry,"No Adverse Conditions",Daylight,P995628
+AL0003602753,2023-01-09,AL,Dry,"No Adverse Conditions",Daylight,1174183
+AL0003602853,2023-01-09,AL,Dry,"No Adverse Conditions",Daylight,58AB0U2
+AL0003602877,2023-01-09,AL,Dry,"No Adverse Conditions",Daylight,C394HR
+AL0003602884,2023-01-09,AL,Dry,"No Adverse Conditions",Daylight,2A08AE3
+AL0003602920,2023-01-09,AL,Dry,"No Adverse Conditions",Daylight,R522841
+AL0003602977,2023-01-09,AL,Dry,"No Adverse Conditions",Daylight,1A0BD1X
+AL0003603043,2023-01-07,AL,Dry,"No Adverse Conditions",Daylight,2706289
+AL0003603064,2023-01-09,AL,Dry,"No Adverse Conditions","Dark - Lighted",GT2412
+AL0003603065,2023-01-04,AL,Dry,"No Adverse Conditions",Dusk,3287078
+AL0003603068,2023-01-09,AL,Dry,"No Adverse Conditions","Dark - Lighted",G267HT
+AL0003603165,2023-01-10,AL,Dry,Fog,Daylight,63A4094
+AL0003603171,2023-01-10,AL,Dry,"No Adverse Conditions",Daylight,67AOE68
+AL0003603182,2023-01-10,AL,Dry,"No Adverse Conditions","Dark - Lighted",49A0HMT
+AL0003603190,2023-01-05,AL,Dry,"No Adverse Conditions",Daylight,229767
+AL0003603242,2023-01-10,AL,Dry,"No Adverse Conditions",Daylight,28AAMER
+AL0003603343,2023-01-10,AL,Dry,"No Adverse Conditions",Daylight,26A13MH
+AL0003603388,2023-01-10,AL,Dry,"No Adverse Conditions",Daylight,A314271
+AL0003603401,2023-01-10,AL,Dry,"No Adverse Conditions",Daylight,3227056
+AL0003603401,2023-01-10,AL,Dry,"No Adverse Conditions",Daylight,JD20QU
+AL0003603547,2023-01-10,AL,Dry,"No Adverse Conditions",Daylight,8AA0212
+AL0003603553,2023-01-10,AL,Dry,"No Adverse Conditions","Dark - Lighted",3099520
+AL0003603625,2023-01-09,AL,Dry,"No Adverse Conditions","Dark - Lighted",52ABACR
+AL0003603645,2023-01-11,AL,Dry,"No Adverse Conditions",Daylight,7A00NT1
+AL0003603671,2023-01-05,AL,Dry,"No Adverse Conditions",Daylight,2977661
+AL0003603698,2023-01-11,AL,Dry,"No Adverse Conditions",Daylight,C24182
+AL0003603699,2023-01-11,AL,Dry,"No Adverse Conditions",Daylight,D377HS
+AL0003603789,2023-01-11,AL,Dry,"No Adverse Conditions",Daylight,26A13HM
+AL0003603825,2023-01-11,AL,Dry,"No Adverse Conditions",Daylight,2913469
+AL0003603851,2023-01-11,AL,Dry,"No Adverse Conditions",Daylight,F16782
+AL0003603858,2023-01-11,AL,Dry,"No Adverse Conditions","Dark - Lighted",3008046
+AL0003603866,2023-01-11,AL,Dry,"No Adverse Conditions",Daylight,DH4487
+AL0003604048,2023-01-07,AL,Dry,"No Adverse Conditions",Daylight,A313804
+AL0003604087,2023-01-12,AL,Wet,Rain,Daylight,3079749
+AL0003604232,2023-01-12,AL,Wet,Rain,Daylight,H6375HY
+AL0003604232,2023-01-12,AL,Wet,Rain,Daylight,3HG170
+AL0003604286,2023-01-12,AL,Wet,Rain,Daylight,XGY981
+AL0003604391,2023-01-09,AL,Wet,Rain,"Dark - Lighted",P737228
+AL0003604403,2023-01-13,AL,Wet,Rain,"Dark - Lighted",06KS8S
+AL0003604434,2023-01-13,AL,Dry,"No Adverse Conditions",Daylight,B2613278
+AL0003604496,2023-01-13,AL,Dry,"No Adverse Conditions",Daylight,2771913
+AL0003604496,2023-01-13,AL,Dry,"No Adverse Conditions",Daylight,1184226
+AL0003604503,2023-01-13,AL,Dry,"No Adverse Conditions",Daylight,2899202
+AL0003604608,2023-01-13,AL,Dry,"No Adverse Conditions",Daylight,3233433
+AL0003604644,2023-01-13,AL,Dry,"No Adverse Conditions",Dusk,EP06490
+AL0003604664,2023-01-12,AL,Wet,"No Adverse Conditions","Dark - Lighted",R58228
+AL0003604671,2023-01-12,AL,Wet,"No Adverse Conditions","Dark - Lighted",R58228
+AL0003604726,2023-01-13,AL,Dry,"No Adverse Conditions","Dark - Lighted",YP23985
+AL0003604732,2023-01-13,AL,Dry,"No Adverse Conditions","Dark - Lighted",3EJ224
+AL0003604738,2023-01-10,AL,Dry,"No Adverse Conditions","Dark - Lighted",NL1931
+AL0003604817,2023-01-14,AL,Dry,"No Adverse Conditions","Dark - Lighted",EZV745
+AL0003605100,2023-01-15,AL,Dry,"No Adverse Conditions","Dark - Lighted",P775749
+AL0003605121,2023-01-14,AL,Dry,"No Adverse Conditions",Dusk,P1036972
+AL0003605380,2023-01-16,AL,Dry,"No Adverse Conditions",Daylight,1A0CER0
+AL0003605381,2023-01-13,AL,Dry,"No Adverse Conditions",Daylight,23A141P
+AL0003605569,2023-01-16,AL,Dry,"No Adverse Conditions","Dark - Lighted",338704
+AL0003605571,2023-01-12,AL,Dry,"No Adverse Conditions","Dark - Lighted",P257217
+AL0003605611,2023-01-17,AL,Wet,Rain,"Dark - Lighted",P5703HY
+AL0003605621,2023-01-17,AL,Wet,Rain,"Dark - Lighted",A487960
+AL0003605621,2023-01-17,AL,Wet,Rain,"Dark - Lighted",P1178607
+AL0003605683,2023-01-16,AL,Dry,"No Adverse Conditions",Daylight,63A42PX
+AL0003605738,2023-01-17,AL,Wet,Rain,Daylight,222497
+AL0003605753,2023-01-17,AL,Wet,"No Adverse Conditions",Daylight,P275885
+AL0003605772,2023-01-17,AL,Dry,"No Adverse Conditions",Daylight,IP629
+AL0003605807,2023-01-17,AL,Wet,"No Adverse Conditions",Daylight,13088PZ
+AL0003605809,2023-01-17,AL,Wet,"No Adverse Conditions",Daylight,K822594
+AL0003605829,2023-01-17,AL,Dry,"No Adverse Conditions",Daylight,A471305
+AL0003605903,2023-01-17,AL,Dry,"No Adverse Conditions",Daylight,3042770
+AL0003605926,2023-01-16,AL,Dry,"No Adverse Conditions",Dawn,NC-1838
+AL0003605929,2023-01-17,AL,Dry,"No Adverse Conditions",Daylight,2A08BTW
+AL0003606089,2023-01-17,AL,Dry,"No Adverse Conditions","Dark - Lighted",38A2T30
+AL0003606123,2023-01-11,AL,Dry,"No Adverse Conditions",Daylight,3244749
+AL0003606159,2023-01-18,AL,Dry,Fog,Daylight,QXTX24
+AL0003606213,2023-01-18,AL,Wet,"No Adverse Conditions",Daylight,1186481
+AL0003606219,2023-01-18,AL,Wet,Fog,Daylight,M3001HY
+AL0003606224,2023-01-18,AL,Wet,Fog,"Dark - Lighted",2878933
+AL0003606229,2023-01-18,AL,Wet,Fog,Daylight,A90229
+AL0003606229,2023-01-18,AL,Wet,Fog,Daylight,PWQ9256
+AL0003606245,2023-01-18,AL,Dry,"No Adverse Conditions",Daylight,32429Z
+AL0003606257,2023-01-18,AL,Wet,Fog,"Dark - Lighted",C595AG
+AL0003606280,2023-01-18,AL,Dry,"No Adverse Conditions",Daylight,JD74NG
+AL0003606309,2023-01-18,AL,Dry,"No Adverse Conditions",Daylight,1205017
+AL0003606466,2023-01-18,AL,Dry,"No Adverse Conditions","Dark - Lighted",2609254
+AL0003606473,2023-01-18,AL,Dry,"No Adverse Conditions","Dark - Lighted",076-DV61
+AL0003606481,2023-01-17,AL,Dry,"No Adverse Conditions","Dark - Lighted",1A0CCX9
+AL0003606497,2023-01-18,AL,Dry,"No Adverse Conditions","Dark - Lighted",38A2NWC
+AL0003606555,2023-01-18,AL,Dry,"No Adverse Conditions",Daylight,P1181247
+AL0003606596,2023-01-19,AL,Wet,"No Adverse Conditions",Daylight,P1166767
+AL0003606627,2023-01-18,AL,Dry,"No Adverse Conditions",Daylight,999NLP
+AL0003606630,2023-01-19,AL,Wet,"No Adverse Conditions",Daylight,3389861
+AL0003606792,2023-01-19,AL,Dry,"No Adverse Conditions",Daylight,1170368
+AL0003606827,2023-01-19,AL,Dry,"No Adverse Conditions",Daylight,1A0CXDM
+AL0003606861,2023-01-19,AL,Dry,"No Adverse Conditions",Daylight,YP46913
+AL0003606861,2023-01-19,AL,Dry,"No Adverse Conditions",Daylight,YHK218
+AL0003606894,2023-01-19,AL,Dry,"No Adverse Conditions",Daylight,2988654
+AL0003606900,2023-01-19,AL,Dry,"No Adverse Conditions",Daylight,1A0CAMY
+AL0003607002,2023-01-19,AL,Dry,"No Adverse Conditions","Dark - Lighted",63A40UW
+AL0003607017,2023-01-19,AL,Dry,"No Adverse Conditions","Dark - Lighted",P1165842
+AL0003607021,2023-01-20,AL,Dry,"No Adverse Conditions","Dark - Lighted",J7667HY
+AL0003607097,2023-01-19,AL,Dry,"No Adverse Conditions","Dark - Lighted",R510372
+AL0003607109,2023-01-20,AL,Dry,"No Adverse Conditions",Daylight,JD90TQ
+AL0003607109,2023-01-20,AL,Dry,"No Adverse Conditions",Daylight,2623920
+AL0003607112,2023-01-20,AL,Dry,"No Adverse Conditions",Daylight,50AAWM4
+AL0003607204,2023-01-19,AL,Dry,"No Adverse Conditions",Daylight,3053850
+AL0003607290,2023-01-17,AL,Dry,"No Adverse Conditions",Daylight,2A091BH
+AL0003607462,2023-01-21,AL,Dry,"No Adverse Conditions","Dark - Lighted",C0210C
+AL0003607485,2023-01-20,AL,Dry,"No Adverse Conditions",Daylight,3155553
+AL0003607688,2023-01-21,AL,Wet,"No Adverse Conditions","Dark - Lighted",JD98KX
+AL0003607885,2023-01-21,AL,Wet,Rain,Daylight,R544134
+AL0003607955,2023-01-19,AL,Dry,"No Adverse Conditions",Daylight,1177464
+AL0003607955,2023-01-19,AL,Dry,"No Adverse Conditions",Daylight,2857545
+AL0003607966,2023-01-22,AL,Wet,Rain,Daylight,P4155HY
+AL0003608100,2023-01-18,AL,Dry,Fog,"Dark - Lighted",1182461
+AL0003608104,2023-01-22,AL,Wet,Rain,Daylight,A470010
+AL0003608240,2023-01-20,AL,Dry,"No Adverse Conditions",Daylight,16A0HBD
+AL0003608275,2023-01-23,AL,Wet,Rain,"Dark - Lighted",1170555
+AL0003608311,2023-01-23,AL,Dry,"No Adverse Conditions",Daylight,1187095
+AL0003608319,2023-01-23,AL,Wet,"No Adverse Conditions","Dark - Lighted",21554X
+AL0003608348,2023-01-23,AL,Dry,"No Adverse Conditions",Daylight,1189118
+AL0003608363,2023-01-18,AL,Dry,"No Adverse Conditions",Daylight,2241703
+AL0003608371,2023-01-23,AL,Dry,"No Adverse Conditions",Daylight,3357705
+AL0003608377,2023-01-23,AL,Dry,"No Adverse Conditions",Daylight,3285497
+AL0003608417,2023-01-23,AL,Dry,"No Adverse Conditions",Daylight,1A0CTD4
+AL0003608423,2023-01-23,AL,Dry,"No Adverse Conditions",Daylight,31AE3RP
+AL0003608499,2023-01-23,AL,Dry,"No Adverse Conditions","Dark - Lighted",3A04MD3
+AL0003608558,2023-01-23,AL,Dry,"No Adverse Conditions",Daylight,47X9332A
+AL0003608597,2023-01-24,AL,Dry,"No Adverse Conditions",Daylight,58AAEPE
+AL0003608654,2023-01-24,AL,Dry,"No Adverse Conditions",Daylight,61ADME7
+AL0003608785,2023-01-24,AL,Dry,"No Adverse Conditions",Daylight,2A09E26
+AL0003608822,2023-01-24,AL,Dry,"No Adverse Conditions",Daylight,25AB040
+AL0003608831,2023-01-24,AL,Dry,"No Adverse Conditions",Daylight,1A0CC9X
+AL0003608878,2023-01-24,AL,Dry,"No Adverse Conditions",Daylight,1194823
+AL0003608902,2023-01-24,AL,Dry,"No Adverse Conditions",Daylight,RLZ5193
+AL0003608989,2023-01-24,AL,Dry,"No Adverse Conditions",Daylight,A036416
+AL0003609005,2023-01-25,AL,Wet,Rain,"Dark - Lighted",1172071
+AL0003609103,2023-01-25,AL,Wet,Rain,"Dark - Lighted",PVW9168
+AL0003609118,2023-01-25,AL,Dry,"No Adverse Conditions",Dawn,J571HV
+AL0003609157,2023-01-25,AL,Wet,"No Adverse Conditions",Daylight,30A0PN2
+AL0003609178,2023-01-25,AL,Dry,"No Adverse Conditions",Daylight,2302486
+AL0003609241,2023-01-25,AL,Dry,"No Adverse Conditions",Daylight,62A100X
+AL0003609243,2023-01-24,AL,Dry,"No Adverse Conditions","Dark - Lighted",2834748
+AL0003609387,2023-01-04,AL,Wet,"No Adverse Conditions",Daylight,3A0395U
+AL0003609420,2023-01-26,AL,Dry,"No Adverse Conditions","Dark - Lighted",NS8059
+AL0003609533,2023-01-25,AL,Dry,"No Adverse Conditions",Daylight,P1150145
+AL0003609587,2023-01-26,AL,Dry,"No Adverse Conditions",Daylight,50AAX7X
+AL0003609641,2023-01-26,AL,Dry,"No Adverse Conditions",Daylight,YP10986
+AL0003609647,2023-01-26,AL,Dry,"No Adverse Conditions",Daylight,1172571
+AL0003609664,2023-01-11,AL,Dry,"No Adverse Conditions",Daylight,5A05XD3
+AL0003609689,2023-01-25,AL,Wet,Rain,"Dark - Lighted",1176691
+AL0003609725,2023-01-25,AL,Dry,"No Adverse Conditions","Dark - Lighted",AK22409
+AL0003609784,2023-01-26,AL,Dry,"No Adverse Conditions","Dark - Lighted",27A0MP5
+AL0003609799,2023-01-27,AL,Dry,"No Adverse Conditions",Dawn,R495235
+AL0003609821,2023-01-27,AL,Dry,"No Adverse Conditions",Daylight,47AR0BC
+AL0003609858,2023-01-27,AL,Dry,"No Adverse Conditions",Daylight,1190296
+AL0003609875,2023-01-24,AL,Dry,"No Adverse Conditions","Dark - Lighted",W32934
+AL0003609882,2023-01-24,AL,Dry,"No Adverse Conditions",Daylight,1186566
+AL0003609909,2023-01-27,AL,Dry,"No Adverse Conditions","Dark - Lighted",PWE3233
+AL0003609910,2023-01-27,AL,Dry,"No Adverse Conditions",Daylight,1181065
+AL0003609928,2023-01-27,AL,Dry,"No Adverse Conditions","Dark - Unknown Roadway Lighting",3085887
+AL0003609994,2023-01-25,AL,Wet,Rain,"Dark - Lighted",3082839
+AL0003609996,2023-01-27,AL,Dry,"No Adverse Conditions",Daylight,47ACHH3
+AL0003610020,2023-01-27,AL,Dry,"No Adverse Conditions",Daylight,58AB0U8
+AL0003610042,2023-01-27,AL,Dry,"No Adverse Conditions",Daylight,3084744
+AL0003610065,2023-01-27,AL,Dry,"No Adverse Conditions",Daylight,F959HT
+AL0003610131,2023-01-27,AL,Dry,"No Adverse Conditions","Dark - Lighted",K6687HY
+AL0003610335,2023-01-28,AL,Dry,"No Adverse Conditions","Dark - Lighted",2618210
+AL0003610372,2023-01-28,AL,Dry,"No Adverse Conditions",Daylight,5A05R3D
+AL0003610564,2023-01-25,AL,Dry,"No Adverse Conditions",Dusk,3329102
+AL0003610568,2023-01-28,AL,Dry,"No Adverse Conditions",Daylight,MX1923
